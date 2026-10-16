@@ -17,7 +17,7 @@
 	- verš má rytmus
 	- základní druhy rýmů
 		- ABAB – střídavý
-		- ABBA – sdružený
+		- AABB – sdružený
 		- ABBA – obkročný
 		- ABCB – přerývaný
 	- opak volného $\downarrow$
@@ -40,7 +40,9 @@
 				- odpověď je zjevná
 				- řečník si na ni hned odpoví 
 		- anafora
-			- opakování slov na začátcích veršů (po sobě jdoucích)
+			- opakování slov na začátku veršů/vět (po sobě jdoucích)
+		- epifora
+			- opakování slova na konci versu
 		- inverze
 		- aliterace
 		- refrén
