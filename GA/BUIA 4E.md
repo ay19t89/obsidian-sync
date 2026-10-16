@@ -31,7 +31,6 @@ print(factorial_loop(5))       # 120
 print(factorial_recursive(5))  # 120
 ```
 
-
 **Příklad: palindrom**
 ```python
 # Loop
@@ -60,8 +59,9 @@ print(palindrome_recursive("hello"))    # False
 ```python
 # Loop
 def fibonacci_loop(n):
+	if n <= 2:
+		return 1
     a, b = 0, 1
-
     for i in range(n):
         a, b = b, a + b
 
@@ -85,3 +85,23 @@ $\uparrow$ Rekurzivní vypočítá stejné hodnoty několikrát
 	- pak zkontrolovat jestli už existuje
 	- $O(2^n) \rightarrow O(n)$
 	- potřebuje mnohém více paměti
+
+**Euklidův algoritm**
+```python
+# Loop
+def gcd_loop(a, b):
+    while b != 0:
+        a, b = b, a % b
+
+    return abs(a)
+
+# Recursive
+def gcd_recursive(a, b):
+    if b == 0:
+        return abs(a)
+
+    return gcd_recursive(b, a % b)
+
+print(gcd_loop(48, 18))       # 6
+print(gcd_recursive(48, 18))  # 6
+```
