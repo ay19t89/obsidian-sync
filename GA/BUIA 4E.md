@@ -109,5 +109,3 @@ print(gcd_recursive(48, 18))  # 6
 > Profesor použil subtraktivní Euklidův algoritmus
 
 
-
-

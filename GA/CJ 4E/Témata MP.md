@@ -1,15 +1,15 @@
 >> 02.09.2026
 ## Literární pojmy
+| #literární_formy | styl  |
+| ---------------- | ----- |
+| próza            | věty  |
+| poezie           | verše 
+
 | #literární_druhy | co                               | styl              |
 | ---------------- | -------------------------------- | ----------------- |
 | lyrika           | pocity, subjektivní, žádný děj   | často ve věrších  |
 | epika            | děj, příběh, událost (vyprávění) | často v próze     |
 | drama            | děj, hra, přímá řeč              | monology, dialogy |
-
-| #literární_formy | styl  |
-| ---------------- | ----- |
-| próza            | věty  |
-| poezie           | verše |
 
 ==**verš**==
 > řádek v básni
@@ -50,15 +50,19 @@
 		- těsně za sebou v jedné verši, větě
 		- "Ach synku, synku..." (Lidová písnička)
 
-	- inverze
 	- aliterace
+		- opakování (stejných) hlásek na začátku sousedních slov
+		- např: "**P**otkal **p**otkan **p**otkana u **p**otoka."
+
+	- inverze
 	- refrén
 	- elipsa
 	- aposiopeze
 		- přerušená výpověď
 
- **tropy (1 tropos)**
-> obrazná pojmenování
+==**tropy (1 tropos)**==
+> obrazná pojmenování,
+> pracují s významem
 - metafora
 	- přenesený význam, na základě podobnosti
 	- není očividná, neobsahuje "jako"
@@ -71,7 +75,6 @@
 	- např:
 		- "Poslouchá Mozarta" (jeho díla) 
 		- "Vypil celou sklenici" (sklenice vody)
-
 
 
 ---
@@ -116,8 +119,9 @@ začátek v roku 863 AD (příchod Konstantina Cyrila a Metoděje)
 	- je to církevní jazyk (spisovný bohoslužebný jazyk)
 	- hlaholice - nejstarší slovanské písmo
 
-Staroslověnština od 9.–11. století - zákaz v roku 1097
-	Potom jenom latina
+Staroslověnština od 9.–11. století
+- zákaz v roku 1097
+- Potom jenom latina
 ...
 - - -
 >> 29.09.2026
