@@ -1,16 +1,20 @@
 
 >> 16.10.2026
-
 #### Test:
-- posunout prvky v seznamu o +2
+- posunout prvky v seznamu o +2 (doprava)
 aka:
-- arr[ i ] = arr[ i - 2 ]
+- `arr[i] = arr[i-2]`
 
 ## Rekurze
 
 Existuje:
 - rekurzivní algoritmy
-- rekurzivní funkce
+- rekurzivní (volání) funkce
+
+**Call stack (volací zásobník)**
+- pro rekurzivní volání funkce
+- není neomezený
+- např. limit Pythonu: 1000
 
 **Příklad: factorial**
 ```python
@@ -106,6 +110,7 @@ print(gcd_loop(48, 18))       # 6
 print(gcd_recursive(48, 18))  # 6
 ```
 > $\uparrow$ standardní verze Euklidova algoritmu
-> Profesor použil subtraktivní Euklidův algoritmus
+> Profesor napsal subtraktivní Euklidův algoritmus
 
+[Classroom >> 16.10.2026](https://classroom.google.com/c/NTQ0Nzg4MTAzMjk2/m/ODkyNjEzOTM1NTk4/details)
 
