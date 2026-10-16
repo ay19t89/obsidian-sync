@@ -86,12 +86,12 @@ $\uparrow$ Rekurzivní vypočítá stejné hodnoty několikrát
 	- $O(2^n) \rightarrow O(n)$
 	- potřebuje mnohém více paměti
 
-**Euklidův algoritm**
+**Euklidův algoritmus**
 ```python
 # Loop
 def gcd_loop(a, b):
     while b != 0:
-        a, b = b, a % b
+        (a, b) = (b, a % b)
 
     return abs(a)
 
@@ -105,3 +105,9 @@ def gcd_recursive(a, b):
 print(gcd_loop(48, 18))       # 6
 print(gcd_recursive(48, 18))  # 6
 ```
+> $\uparrow$ standardní verze Euklidova algoritmu
+> Profesor použil subtraktivní Euklidův algoritmus
+
+
+
+
