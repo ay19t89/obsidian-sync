@@ -3,8 +3,8 @@
 | #literární_druhy | co                               | styl              |
 | ---------------- | -------------------------------- | ----------------- |
 | lyrika           | pocity, subjektivní, žádný děj   | často ve věrších  |
-| epika            | děj, příběh, událost (vyprávění) | často ve větách   |
-| drama            | děj, hra, príma řeč              | monology, dialogy |
+| epika            | děj, příběh, událost (vyprávění) | často v próze     |
+| drama            | děj, hra, přímá řeč              | monology, dialogy |
 
 | #literární_formy | styl  |
 | ---------------- | ----- |
@@ -31,27 +31,31 @@
 - rým
 	- zvuková shoda na konci veršů
 
-- figury
-	- definice...
-	- např:
-		- řečnická otázka
-			- rétorická otázka, proto:
-				- odpověď neexistuje
-				- odpověď je zjevná
-				- řečník si na ni hned odpoví 
-		- anafora
-			- opakování slov na začátku veršů/vět (po sobě jdoucích)
-		- epifora
-			- opakování slova na konci versu
-		- inverze
-		- aliterace
-		- refrén
-		- elipsa
-		- aposiopeze
-			- přerušená výpověď
-		- epizeuxis
-			- opakování stejného slova v jedné verši, větě
-			- Lidová písnička: "Ach synku, synku..."
+==**figury**==
+- definice...
+- např:
+	- řečnická otázka
+		- rétorická otázka
+		- protože:
+			- odpověď neexistuje
+			- odpověď je zjevná
+			- řečník si na ni hned odpoví
+	
+	- ***Opakování stejného slova***
+	- anafora
+		- na začátku veršů, vět (po sobě jdoucích)
+	- epifora
+		- na konci veršů, vět (po sobě jdoucích)
+	- epizeuxis
+		- těsně za sebou v jedné verši, větě
+		- "Ach synku, synku..." (Lidová písnička)
+
+	- inverze
+	- aliterace
+	- refrén
+	- elipsa
+	- aposiopeze
+		- přerušená výpověď
 
  **tropy (1 tropos)**
 > obrazná pojmenování
