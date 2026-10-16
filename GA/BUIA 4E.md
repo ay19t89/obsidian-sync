@@ -57,4 +57,31 @@ print(palindrome_recursive("hello"))    # False
 ```
 
 **Fibonacciho čísla**
+```python
+# Loop
+def fibonacci_loop(n):
+    a, b = 0, 1
 
+    for i in range(n):
+        a, b = b, a + b
+
+    return a
+
+# Recursive
+def fibonacci_recursive(n):
+    if n == 0 or n == 1:
+        return n
+
+    return fibonacci_recursive(n - 1) + fibonacci_recursive(n - 2)
+
+print(fibonacci_loop(6))       # 8
+print(fibonacci_recursive(6))  # 8
+```
+$\uparrow$ Rekurzivní vypočítá stejné hodnoty několikrát
+
+**Potenciální rešení:** 
+- cache (aka memoizace)
+	- třeba array
+	- pak zkontrolovat jestli už existuje
+	- $O(2^n) \rightarrow O(n)$
+	- potřebuje mnohém více paměti
