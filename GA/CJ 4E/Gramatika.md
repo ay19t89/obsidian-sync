@@ -25,7 +25,7 @@
 
 ---
 
-
-
+prodražovat něco něčemu
+- něco > něčemu
 
 
