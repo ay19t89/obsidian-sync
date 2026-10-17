@@ -12,10 +12,12 @@
 2. jejíhož
 3. jejímuž
 4. jejíž
-5. -
+5. –
 6. o jejímž
 7. s jejímž
 
+#### Souvětí
+- druhá `x` první
 
 **Stupňovací poměr**
 - dokonce, ale i
