@@ -266,6 +266,16 @@ Shakespearea dělíme na 2 části
 ...
 
 ---
+>> 14.10.2026
+## Klasicismus
+
+- návrat k *antice*
+
+---
+## Osvícenství
+
+
+---
 >> 21.10.2026
 ## Preromantismus
 
