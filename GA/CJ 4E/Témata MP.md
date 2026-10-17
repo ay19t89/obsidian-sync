@@ -42,13 +42,13 @@
 			- řečník si na ni hned odpoví
 	
 	- ***Opakování stejného slova***
-	- anafora
-		- na začátku veršů, vět (po sobě jdoucích)
-	- epifora
-		- na konci veršů, vět (po sobě jdoucích)
-	- epizeuxis
-		- těsně za sebou v jedné verši, větě
-		- "Ach synku, synku..." (Lidová písnička)
+		- anafora
+			- na začátku veršů, vět (po sobě jdoucích)
+		- epifora
+			- na konci veršů, vět (po sobě jdoucích)
+		- epizeuxis
+			- těsně za sebou v jedné verši, větě
+			- "Ach synku, synku..." (Lidová písnička)
 
 	- aliterace
 		- opakování (stejných) hlásek na začátku sousedních slov
