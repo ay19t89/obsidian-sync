@@ -31,7 +31,7 @@
 - rým
 	- zvuková shoda na konci veršů
 
-==**figury**==
+#### ==Figury==
 - definice...
 - např:
 	- řečnická otázka
@@ -60,7 +60,7 @@
 	- aposiopeze
 		- přerušená výpověď
 
-==**tropy (1 tropos)**==
+#### ==Tropy (1 tropos)==
 > obrazná pojmenování,
 > pracují s významem
 - metafora
@@ -75,7 +75,6 @@
 	- např:
 		- "Poslouchá Mozarta" (jeho díla) 
 		- "Vypil celou sklenici" (sklenice vody)
-
 
 ---
 >> 16.09.2026
@@ -269,6 +268,7 @@ Shakespearea dělíme na 2 části
 >> 14.10.2026
 ## Klasicismus
 
+- ($\frac{2}{2}$ 17. ) - ($\frac{1}{2}$ 18.) století
 - návrat k *antice*
 
 ---

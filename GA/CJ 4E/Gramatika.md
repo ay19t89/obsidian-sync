@@ -17,6 +17,12 @@
 7. s jejímž
 
 
+**Stupňovací poměr**
+- dokonce, ale i
+- vyšší stupeň, než první věta
+
+---
+
 
 
 
