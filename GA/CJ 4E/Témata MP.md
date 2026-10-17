@@ -166,7 +166,8 @@ Staroslověnština od 9.–11. století
 		- *Balada o jazycích klevetníků*
 		- *Balada o drobnostech*
 - **Francois Rabelais** \[rablé]
-	- román
+	- **Gargantua a Pantagruel**
+		- román
 #### Španělsko
 - **Miguel de Cervantes**
 	- *Don Quijote*
@@ -279,6 +280,7 @@ Shakespearea dělíme na 2 části
 >> 21.10.2026
 ## Preromantismus
 
+- ($\frac{2}{2}$ 18.) století
 #### Autoři
 - **Johann Wolfgang Goethe**
 	- *Utrpení mladého Werthera*
@@ -287,6 +289,7 @@ Shakespearea dělíme na 2 části
 
 ---
 ## Romantismus
+
 - román, ne romantika
 - ($\frac{1}{3}$ 19.) století
 
