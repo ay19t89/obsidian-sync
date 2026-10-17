@@ -279,11 +279,16 @@ Shakespearea dělíme na 2 části
 >> 21.10.2026
 ## Preromantismus
 
+#### Autoři
+- **Johann Wolfgang Goethe**
+	- *Utrpení mladého Werthera*
+	- *Faust*
 
 
 ---
 ## Romantismus
-
+- román, ne romantika
+- ($\frac{1}{3}$ 19.) století
 
 
 
