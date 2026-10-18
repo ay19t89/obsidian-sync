@@ -200,7 +200,7 @@ Shakespearea dělíme na 2 části
 
 - **William Shakespeare (1564–1616)**
 	- narodil se v Stratford-upon-Avon, Anglie
-
+	- 
 	- #komedie `do 1600`
 		- *Sen noci svatojánské*
 			- `angl. Midsummer Night's Dream`
@@ -285,7 +285,7 @@ Shakespearea dělíme na 2 části
 #### Baroko v Čechách
 
 - **Jan Ámos Komenský (1592–1670)**
-	- nejvýznamnější osobnost české literatury do 19. století
+	- #nejvýznamnější osobnost české literatury do 19. století
 ...
 
 ---
@@ -355,7 +355,7 @@ nespokojenost se společností
 #### Francie
 - **Victor Hugo (1802–1885)**
 	- básník, prozaik, dramatik
-	- -
+	- 
 	- *Chrám Matky Boží v Paříži*
 		- historický román
 		- postava Quasimodo
@@ -373,11 +373,15 @@ nespokojenost se společností
 - **Mikhail Jurjevič Lermontov**
 	- básník, prozaik, dramatik
 	- zemřel v duelu
-
+	- 
 	- *Myšlenka*
 		- báseň
 	- *Hrdina naší doby*
 		- román
 		- zobrazení 
 
+## Český romantismus
+
+- **Karel Hynek Mácha (1810–1836)**
+	- #nejvýznamnější představitel českého romantismu
 ---
