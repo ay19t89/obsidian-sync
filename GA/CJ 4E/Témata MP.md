@@ -392,7 +392,8 @@ Shakespearea dělíme na 2 části
 		- historický román
 		- postava Quasimodo
 	- *Legenda věků*
-		- trojdílný cyklus
+		- epická básnická sbírka
+		- hlavní téma - vývoj lidstva
 	- *Bídníci*
 		- `fr. Les Miserables`
 		- román
@@ -423,7 +424,10 @@ Shakespearea dělíme na 2 části
 		- sci-fi (vědecko-fantastika)
 	- 
 	- *Jáma a kyvadlo*
+		- epika
 		- horor
+		- důraz na monolog
+		- lidský půd sebezáchovy
 	- *Havran*
 		- báseň
 		- symbolizuje smrt, ztrátu, beznaděj
@@ -435,7 +439,7 @@ Shakespearea dělíme na 2 části
 	- 
 	- *Máj*
 		- lyricko-epická báseň
-		- Vilém
+		- hlavní postava Vilém
 	- *Cikáni*
 		- román
 
