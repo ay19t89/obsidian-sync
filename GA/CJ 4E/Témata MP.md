@@ -307,13 +307,16 @@ Shakespearea dělíme na 2 části
 #### Autoři
 - **Molière (1622–1673)**
 	- Jean Baptiste Poquelin \[poklén]
-	- soustředí na 1 špatnu vlastnost
+	- soustředí na 1 špatnu vlastnost - personifikace
+	- ne každá komedie je vtipná
 	- 
 	- *Lakomec*
 	- *Zdravý nemocný*
----
-## Osvícenství
 
+- **Pierre Corneille**
+	- *Cid*
+---
+%% ## Osvícenství %%
 
 ---
 >> 21.10.2026
