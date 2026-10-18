@@ -335,6 +335,17 @@ nespokojenost se společností
 - **George Gordon Byron (1788–1824)**
 	- *Chtěl bych být na své Vysočině*
 	- *Child Haroldova Pouť*
-		- `angl. `
+		- `angl. Childe Harold's Pilgrimage`
+		- lyricko-epická báseň
+		- poutník - z Anglie do Řecka
 
+- **Walter Scott**
+
+#### Francie
+- **Victor Hugo (1802–1885)**
+	- básník, prozaik, dramatik
+
+	- *Legenda věků*
+		- trojdílný cyklus
+	- *Bídníci a ubozaci*
 ---
