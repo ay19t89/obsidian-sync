@@ -200,6 +200,7 @@ Shakespearea dělíme na 2 části
 
 - **William Shakespeare (1564–1616)**
 	- narodil se v Stratford-upon-Avon, Anglie
+
 	- #komedie `do 1600`
 		- *Sen noci svatojánské*
 			- `angl. Midsummer Night's Dream`
@@ -237,6 +238,7 @@ Shakespearea dělíme na 2 části
 - **Jan Blahoslav**
 	- renesanční osobnost
 	- moravský kněz a biskup Jednoty Bratrské
+
 	- *Musica*
 		- první česká teorie hudby
 	- *Gramatika česká*
@@ -245,6 +247,7 @@ Shakespearea dělíme na 2 části
 		- kvalitní překlad do staročeštiny
 		- jazykově jednotné
 		- později základ obrození
+
 - **Daniel Adam z Veleslavína**
 	- Veleslavín v Praze
 	- vlastnil vydavatelství a tiskárny
@@ -301,9 +304,11 @@ Shakespearea dělíme na 2 části
 ## Preromantismus
 
 - ($\frac{2.}{2}$ 18.) století
+- původ Anglie
 #### Autoři
 - **Johann Wolfgang Goethe**
 	- jeden z nejvýznamnějších v Německu
+
 	- *Utrpení mladého Werthera*
 	- *Faust*
 
@@ -312,8 +317,14 @@ Shakespearea dělíme na 2 části
 ## Romantismus
 
 - román, ne romantika
-- ($\frac{1}{3}$ 19.) století
+- ($\frac{1.}{3}$ 19.) století
+- protiklad klasicismu
 
+nespokojenost se společností
 
+- tajné místo
+	- např. příroda, les, noc ...
+	- cíl: svoboda od společnosti
+	- odlišnost
 
 ---
