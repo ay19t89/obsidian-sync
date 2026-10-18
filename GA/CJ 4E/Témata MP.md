@@ -378,10 +378,31 @@ nespokojenost se společností
 		- báseň
 	- *Hrdina naší doby*
 		- román
-		- zobrazení 
+		- zobrazení
 
-## Český romantismus
+#### Amerika
+- **Edgar Allan Poe (1809–1849)**
+	- prozaik, básník
+	- zakladatel 3 žánrů:
+		- horor
+		- detektivky
+		- sci-fi (vědecko-fantastika)
+	- 
+	- *Jáma a kyvadlo*
+		- horor
+	- *Havran*
+		- báseň
+		- symbol zla, smrti
+
+## Česko
 
 - **Karel Hynek Mácha (1810–1836)**
 	- #nejvýznamnější představitel českého romantismu
+	- 
+	- *Máj*
+		- lyricko-epická báseň
+		- Vilém
+	- *Cikáni*
+		- román
+
 ---
