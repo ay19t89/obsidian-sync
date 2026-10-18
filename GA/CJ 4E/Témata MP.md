@@ -296,8 +296,14 @@ Shakespearea dělíme na 2 části
 
 - začátek: Francie
 - ($\frac{2.}{2}$ 17. ) - ($\frac{1.}{2}$ 18.) století
-- návrat k *antice*
 - důraz na rozum
+
+**návrat k *antice***
+- antika je klasika
+- tradice
+	- drama, tragédie
+	- teorie literatury (pravidla) - Poetika
+- rozum - hlavní téma
 
 **Hrdina klasicismu**
 - plní povinnosti
@@ -311,10 +317,10 @@ Shakespearea dělíme na 2 části
 	- ne každá komedie je vtipná
 	- 
 	- *Lakomec*
+		- drama
+		- prozaická komedie
 	- *Zdravý nemocný*
-
-- **Pierre Corneille**
-	- *Cid*
+		- satirická komedie
 ---
 %% ## Osvícenství %%
 
@@ -325,12 +331,13 @@ Shakespearea dělíme na 2 části
 - ($\frac{2.}{2}$ 18.) století
 - původ Anglie
 #### Autoři
-- **Johann Wolfgang Goethe**
-	- jeden z nejvýznamnějších v Německu
+- **Johann Wolfgang von Goethe**
+	- jeden z nejvýznamnějších v Německu #významný
 
 	- *Utrpení mladého Werthera*
+		- milostný román
 	- *Faust*
-
+		- filozofické drama
 
 ---
 ## Romantismus
@@ -356,7 +363,7 @@ Shakespearea dělíme na 2 části
 #### Německo
 - **Novalis (1772–1801)**
 	- Friedrich von Hardenberg
-
+	- 
 	- *Heinrich von Ofterdingen*
 		- nedokončený román
 		- Symbol Modrého květu
