@@ -318,10 +318,11 @@ Shakespearea dělíme na 2 části
 
 - román, ne romantika
 - ($\frac{1.}{3}$ 19.) století
-- protiklad klasicismu
+- protiklad klasicismu, důraz na city místo rozumu
 
 nespokojenost se společností
-
+**Romantický hrdina**
+- výjimečný, osamělý
 - tajné místo
 	- např. příroda, les, noc ...
 	- cíl: svoboda od společnosti
@@ -331,10 +332,14 @@ nespokojenost se společností
 - **Novalis (1772–1801)**
 	- Friedrich von Hardenberg
 
+	- *Heinrich von Ofterdingen*
+		- nedokončený román
+		- Symbol Modrého květu
+
 #### Anglie
 - **George Gordon Byron (1788–1824)**
 	- *Chtěl bych být na své Vysočině*
-	- *Child Haroldova Pouť*
+	- *Childe Haroldova Pouť*
 		- `angl. Childe Harold's Pilgrimage`
 		- lyricko-epická báseň
 		- poutník - z Anglie do Řecka
@@ -344,7 +349,7 @@ nespokojenost se společností
 #### Francie
 - **Victor Hugo (1802–1885)**
 	- básník, prozaik, dramatik
-
+	- -
 	- *Legenda věků*
 		- trojdílný cyklus
 	- *Bídníci*
