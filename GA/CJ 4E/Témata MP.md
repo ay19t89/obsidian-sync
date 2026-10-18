@@ -318,7 +318,8 @@ Shakespearea dělíme na 2 části
 
 - román, ne romantika
 - ($\frac{1.}{3}$ 19.) století
-- protiklad klasicismu, důraz na city místo rozumu
+- protiklad klasicismu
+	- důraz na city místo rozumu
 
 **Hlavní znaky**
 - nespokojenost se společností
@@ -329,9 +330,9 @@ Shakespearea dělíme na 2 části
 
 **Romantický hrdina**
 - výjimečný, osamělý
-
-	- cíl: svoboda od společnosti
-	- odlišnost
+- odlišnost
+- cíl: svoboda (od společnosti)
+- často má tragický konec
 
 #### Německo
 - **Novalis (1772–1801)**
@@ -380,10 +381,12 @@ Shakespearea dělíme na 2 části
 	- zemřel v duelu
 	- 
 	- *Myšlenka*
+		- `ru. Дума`
 		- báseň
 	- *Hrdina naší doby*
-		- román
-		- zobrazení
+		- psychologický román
+		- zobrazení jeho generace
+		- kritika společnosti
 
 #### Amerika
 - **Edgar Allan Poe (1809–1849)**
@@ -397,7 +400,7 @@ Shakespearea dělíme na 2 části
 		- horor
 	- *Havran*
 		- báseň
-		- symbol zla, smrti
+		- symbolizuje smrt, ztrátu, beznaděj
 
 ## Česko
 
