@@ -10,7 +10,23 @@
 | lyrika           | pocity, subjektivní, žádný děj   | často ve věrších  |
 | epika            | děj, příběh, událost (vyprávění) | často v próze     |
 | drama            | děj, hra, přímá řeč              | monology, dialogy |
-
+#literární_žánry
+- **lyrické žánry**
+	- óda
+	- elegie
+	- ...
+- **epické žánry**
+	- román
+	- povídka
+	- bajka
+	- pohádka
+- **dramatické žánry** 
+	- komedie
+	- tragédie
+	- fraška
+- **lyricko-epické žánry**
+	- balada
+---
 ==**verš**==
 > řádek v básni
 - #verš_vázaný
@@ -30,6 +46,7 @@
 	- pravidelné střídání slabik ...
 - rým
 	- zvuková shoda na konci veršů
+	- např. židle, vidle
 
 #### ==Figury==
 - definice...
