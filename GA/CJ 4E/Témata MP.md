@@ -355,8 +355,8 @@ nespokojenost se společností
 	- básník, prozaik, dramatik
 	- zemřel v duelu
 
-	- *Zamyšlení*
-		- poezie
+	- *Myšlenka*
+		- báseň
 	- *Hrdina naší doby*
 		- román
 		- zobrazení 
