@@ -294,9 +294,23 @@ Shakespearea dělíme na 2 části
 >> 14.10.2026
 ## Klasicismus
 
+- začátek: Francie
 - ($\frac{2.}{2}$ 17. ) - ($\frac{1.}{2}$ 18.) století
 - návrat k *antice*
+- důraz na rozum
 
+**Hrdina klasicismu**
+- plní povinnosti
+- bojuje s emocí, city
+- výběr povinnost `x` pocity
+
+#### Autoři
+- **Molière (1622–1673)**
+	- Jean Baptiste Poquelin \[poklén]
+	- soustředí na 1 špatnu vlastnost
+	- 
+	- *Lakomec*
+	- *Zdravý nemocný*
 ---
 ## Osvícenství
 
@@ -321,7 +335,7 @@ Shakespearea dělíme na 2 části
 - román, ne romantika
 - ($\frac{1.}{3}$ 19.) století
 - protiklad klasicismu
-	- důraz na city místo rozumu
+- důraz na city místo rozumu
 
 **Hlavní znaky**
 - nespokojenost se společností
