@@ -359,5 +359,6 @@ nespokojenost se společností
 		- poezie
 	- *Hrdina naší doby*
 		- román
+		- zobrazení 
 
 ---
