@@ -320,11 +320,16 @@ Shakespearea dělíme na 2 části
 - ($\frac{1.}{3}$ 19.) století
 - protiklad klasicismu, důraz na city místo rozumu
 
-nespokojenost se společností
+**Hlavní znaky**
+- nespokojenost se společností
+- osamělost, smutek
+- útěk do přírody, minulosti, snů
+- tajemná místa
+	- les, hřbitov, noc
+
 **Romantický hrdina**
 - výjimečný, osamělý
-- tajné místo
-	- např. příroda, les, noc ...
+
 	- cíl: svoboda od společnosti
 	- odlišnost
 
