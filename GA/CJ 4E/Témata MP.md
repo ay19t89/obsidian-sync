@@ -64,17 +64,19 @@
 > obrazná pojmenování,
 > pracují s významem
 - metafora
-	- přenesený význam, na základě podobnosti
+	- přenesený význam, na základě vnější podobnosti
 	- není očividná, neobsahuje "jako"
 	- např:
 		- čelo postele (na základě polohy)
 		- hlava rodiny (hlava vede ostatní, funkce)
 - metonymie
-	- přenesený význam, na základě souvislosti
+	- přenesený význam, na základě vnitřní souvislosti
 	- jiná než metafora 
 	- např:
 		- "Poslouchá Mozarta" (jeho díla) 
 		- "Vypil celou sklenici" (sklenice vody)
+- personifikace
+	- polidštění, přenesení lidských vlastností na zvířata, věci
 
 ---
 >> 16.09.2026
