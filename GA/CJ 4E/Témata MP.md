@@ -171,9 +171,11 @@ Staroslověnština od 9.–11. století
 - **Dante Alighieri**
 	- *Božská komedie*
 		- rozsáhlá básnická skladba
-- **Francesco Petrarca**
+- **Francesco Petrarca (1304–1374)**
 	- *Mír nenacházím, k válce síla není*
-	- *Zpěvník ()*
+	- *Zpěvník* #významný
+		- `it. Canzoniere`
+		- 366 básni
 - **Giovanni Boccaccio**
 	- *Dekameron*
 		- epika, próza
