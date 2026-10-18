@@ -327,4 +327,14 @@ nespokojenost se společností
 	- cíl: svoboda od společnosti
 	- odlišnost
 
+#### Německo
+- **Novalis (1772–1801)**
+	- Friedrich von Hardenberg
+
+#### Anglie
+- **George Gordon Byron (1788–1824)**
+	- *Chtěl bych být na své Vysočině*
+	- *Child Haroldova Pouť*
+		- `angl. `
+
 ---
