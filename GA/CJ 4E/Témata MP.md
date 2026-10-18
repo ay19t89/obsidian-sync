@@ -345,17 +345,31 @@ nespokojenost se společností
 		- poutník - z Anglie do Řecka
 
 - **Walter Scott**
+	- zakladatel historického románu
+	- *Ivanhoe*
+		- anglické dějiny
+	- Waverley
+		- skotské dějiny
+
 
 #### Francie
 - **Victor Hugo (1802–1885)**
 	- básník, prozaik, dramatik
 	- -
+	- *Chrám Matky Boží v Paříži*
+		- historický román
+		- postava Quasimodo
 	- *Legenda věků*
 		- trojdílný cyklus
 	- *Bídníci*
 		- `fr. Les Miserables`
+		- román
 
 #### Rusko
+- **Alexandr Sergejevič Puškin**
+	- *Evžen Oněgin*
+		- román ve věrších
+
 - **Mikhail Jurjevič Lermontov**
 	- básník, prozaik, dramatik
 	- zemřel v duelu
