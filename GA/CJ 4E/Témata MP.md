@@ -20,6 +20,7 @@
 	- povídka
 	- bajka
 	- pohádka
+	- legenda
 - **dramatické žánry** 
 	- komedie
 	- tragédie
@@ -49,50 +50,50 @@
 	- např. židle, vidle
 
 #### ==Figury==
-- definice...
-- např:
-	- řečnická otázka
-		- rétorická otázka
-		- protože:
-			- odpověď neexistuje
-			- odpověď je zjevná
-			- řečník si na ni hned odpoví
-	
-	- ***Opakování stejného slova***
-		- anafora
-			- na začátku veršů, vět (po sobě jdoucích)
-		- epifora
-			- na konci veršů, vět (po sobě jdoucích)
-		- epizeuxis
-			- těsně za sebou v jedné verši, větě
-			- "Ach synku, synku..." (Lidová písnička)
+> definice...
 
-	- aliterace
-		- opakování (stejných) hlásek na začátku sousedních slov
-		- např: "**P**otkal **p**otkan **p**otkana u **p**otoka."
+- řečnická otázka
+	- rétorická otázka
+	- protože:
+		- odpověď neexistuje
+		- odpověď je zjevná
+		- řečník si na ni hned odpoví
+- inverze
+- refrén
+- elipsa
+- aposiopeze
+	- přerušená výpověď
 
-	- inverze
-	- refrén
-	- elipsa
-	- aposiopeze
-		- přerušená výpověď
+**Opakování stejného slova**
+- anafora
+	- na začátku veršů, vět (po sobě jdoucích)
+- epifora
+	- na konci veršů, vět (po sobě jdoucích)
+- epizeuxis
+	- těsně za sebou v jedné verši, větě
+	- "Ach synku, synku..." (Lidová písnička)
+
+- aliterace
+	- opakování (stejných) hlásek na začátku sousedních slov
+	- např: "**P**otkal **p**otkan **p**otkana u **p**otoka."
 
 #### ==Tropy (1 tropos)==
 > obrazná pojmenování,
 > pracují s významem
-- metafora
+
+- **metafora**
 	- přenesený význam, na základě vnější podobnosti
 	- není očividná, neobsahuje "jako"
 	- např:
 		- čelo postele (na základě polohy)
 		- hlava rodiny (hlava vede ostatní, funkce)
-- metonymie
+- **metonymie**
 	- přenesený význam, na základě vnitřní souvislosti
 	- jiná než metafora 
 	- např:
 		- "Poslouchá Mozarta" (jeho díla) 
 		- "Vypil celou sklenici" (sklenice vody)
-- personifikace
+- **personifikace**
 	- polidštění, přenesení lidských vlastností na zvířata, věci
 
 ---
@@ -108,7 +109,7 @@
 - anonymní autoři
 
 **Období**
-- od 5. století AD do 15. století AD (konec Římské impérií - začátek Ameriky)
+- 5.–15. století AD (konec Římské impérií - začátek Ameriky)
 - cca tisíc let
 
 **Křesťanství**
@@ -225,7 +226,7 @@ Shakespearea dělíme na 2 části
 >> 07.10.2026
 ## Český humanismus
 
-- ($\frac{2}{2}$ 15.) do ($\frac{1}{4}$ 17.) století
+- ($\frac{2.}{2}$ 15.) do ($\frac{1.}{4}$ 17.) století
 - renesance - příběh o lidech
 - humanismus - duchovní rozvoj, vzdělání člověka
 
@@ -288,7 +289,7 @@ Shakespearea dělíme na 2 části
 >> 14.10.2026
 ## Klasicismus
 
-- ($\frac{2}{2}$ 17. ) - ($\frac{1}{2}$ 18.) století
+- ($\frac{2.}{2}$ 17. ) - ($\frac{1.}{2}$ 18.) století
 - návrat k *antice*
 
 ---
@@ -299,9 +300,10 @@ Shakespearea dělíme na 2 části
 >> 21.10.2026
 ## Preromantismus
 
-- ($\frac{2}{2}$ 18.) století
+- ($\frac{2.}{2}$ 18.) století
 #### Autoři
 - **Johann Wolfgang Goethe**
+	- jeden z nejvýznamnějších v Německu
 	- *Utrpení mladého Werthera*
 	- *Faust*
 
