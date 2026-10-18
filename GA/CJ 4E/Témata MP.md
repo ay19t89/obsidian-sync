@@ -347,5 +347,17 @@ nespokojenost se společností
 
 	- *Legenda věků*
 		- trojdílný cyklus
-	- *Bídníci a ubozaci*
+	- *Bídníci*
+		- `fr. Les Miserables`
+
+#### Rusko
+- **Mikhail Jurjevič Lermontov**
+	- básník, prozaik, dramatik
+	- zemřel v duelu
+
+	- *Zamyšlení*
+		- poezie
+	- *Hrdina naší doby*
+		- román
+
 ---
