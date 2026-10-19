@@ -342,10 +342,9 @@ Shakespearea dělíme na 2 části
 ---
 ## Romantismus
 
-- román, ne romantika
 - ($\frac{1.}{3}$ 19.) století
 - protiklad klasicismu
-- důraz na city místo rozumu
+- důraz na city místo rozumu (realismus)
 
 **Hlavní znaky**
 - nespokojenost se společností
