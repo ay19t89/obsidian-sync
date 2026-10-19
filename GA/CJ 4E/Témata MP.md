@@ -10,6 +10,7 @@
 | lyrika           | pocity, subjektivní, žádný děj   | často ve věrších  |
 | epika            | děj, příběh, událost (vyprávění) | často v próze     |
 | drama            | děj, hra, přímá řeč              | monology, dialogy |
+
 #literární_žánry
 - **lyrické žánry**
 	- óda
@@ -126,7 +127,7 @@
 **Normální člověk - vliv**
 - nomádské zpěváci a herci
 - nižší šlechta
-- mysleli že někdo snad něco zapíše
+- mysleli že někdo něco zapíše
 
 #### Česká literatura
 začátek v roku 863 AD (příchod Konstantina Cyrila a Metoděje)
@@ -187,8 +188,9 @@ Staroslověnština od 9.–11. století
 		- *Balada o zobáčku Pařížanek*
 		- *Balada o jazycích klevetníků*
 		- *Balada o drobnostech*
+
 - **Francois Rabelais** \[rablé]
-	- **Gargantua a Pantagruel**
+	- *Gargantua a Pantagruel*
 		- román
 #### Španělsko
 - **Miguel de Cervantes**
@@ -203,7 +205,7 @@ Shakespearea dělíme na 2 části
 - **William Shakespeare (1564–1616)**
 	- narodil se v Stratford-upon-Avon, Anglie
 	- 
-	- #komedie `do 1600`
+	- #komedie `většinou do 1600`
 		- *Sen noci svatojánské*
 			- `angl. Midsummer Night's Dream`
 		- *Zkrocení zlé ženy* ?...
@@ -214,7 +216,7 @@ Shakespearea dělíme na 2 části
 			- `angl. All's Well That Ends Well`
 		- *Kupec benátský*
 			- `angl. The Merchant of Venice`
-	- #tragedie `po 1600`
+	- #tragedie `většinou po 1600`
 		- *Romeo a Julie*
 			- zakázaná láska
 				- nepřátelství rodin
@@ -384,7 +386,6 @@ Shakespearea dělíme na 2 části
 		- anglické dějiny
 	- Waverley
 		- skotské dějiny
-
 
 #### Francie
 - **Victor Hugo \[igo] (1802–1885)**
