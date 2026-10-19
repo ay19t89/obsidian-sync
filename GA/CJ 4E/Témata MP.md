@@ -10,7 +10,6 @@
 | lyrika           | pocity, subjektivní, žádný děj   | často ve věrších  |
 | epika            | děj, příběh, událost (vyprávění) | často v próze     |
 | drama            | děj, hra, přímá řeč              | monology, dialogy |
-
 #literární_žánry
 - **lyrické žánry**
 	- óda
@@ -127,7 +126,7 @@
 **Normální člověk - vliv**
 - nomádské zpěváci a herci
 - nižší šlechta
-- mysleli že někdo něco zapíše
+- mysleli že někdo snad něco zapíše
 
 #### Česká literatura
 začátek v roku 863 AD (příchod Konstantina Cyrila a Metoděje)
@@ -172,13 +171,11 @@ Staroslověnština od 9.–11. století
 - **Dante Alighieri**
 	- *Božská komedie*
 		- rozsáhlá básnická skladba
-
 - **Francesco Petrarca (1304–1374)**
 	- *Mír nenacházím, k válce síla není*
 	- *Zpěvník* #významný
 		- `it. Canzoniere`
 		- 366 básni
-
 - **Giovanni Boccaccio**
 	- *Dekameron*
 		- epika, próza
@@ -190,9 +187,8 @@ Staroslověnština od 9.–11. století
 		- *Balada o zobáčku Pařížanek*
 		- *Balada o jazycích klevetníků*
 		- *Balada o drobnostech*
-
 - **Francois Rabelais** \[rablé]
-	- *Gargantua a Pantagruel*
+	- **Gargantua a Pantagruel**
 		- román
 #### Španělsko
 - **Miguel de Cervantes**
@@ -200,14 +196,14 @@ Staroslověnština od 9.–11. století
 		- román
 		- postava je snílek
 #### Anglie
-Shakespearea dělíme zhruba na 2 části:
+Shakespearea dělíme na 2 části
 1. před 1600: komedie a historické hry
 2. po 1600: tragédie
 
 - **William Shakespeare (1564–1616)**
 	- narodil se v Stratford-upon-Avon, Anglie
 	- 
-	- #komedie `většina do 1600`
+	- #komedie `do 1600`
 		- *Sen noci svatojánské*
 			- `angl. Midsummer Night's Dream`
 		- *Zkrocení zlé ženy* ?...
@@ -218,7 +214,7 @@ Shakespearea dělíme zhruba na 2 části:
 			- `angl. All's Well That Ends Well`
 		- *Kupec benátský*
 			- `angl. The Merchant of Venice`
-	- #tragedie `většina po 1600`
+	- #tragedie `po 1600`
 		- *Romeo a Julie*
 			- zakázaná láska
 				- nepřátelství rodin
@@ -244,7 +240,7 @@ Shakespearea dělíme zhruba na 2 části:
 - **Jan Blahoslav**
 	- renesanční osobnost
 	- moravský kněz a biskup Jednoty Bratrské
-	- 
+
 	- *Musica*
 		- první česká teorie hudby
 	- *Gramatika česká*
@@ -263,7 +259,6 @@ Shakespearea dělíme zhruba na 2 části:
 ## Baroko
 
 - 16.–18. století
-- kontrasty a dramatičnost
 
 **Barokní kontrast:**
 - Bůh (dokonalý)
@@ -349,20 +344,23 @@ Shakespearea dělíme zhruba na 2 části:
 
 - ($\frac{1.}{3}$ 19.) století
 - protiklad klasicismu
+- navazuje na preromantismus
 - důraz na city místo rozumu (realismus)
 
 **Hlavní znaky**
 - nespokojenost se společností
 - osamělost, smutek
-- útěk do přírody, minulosti, snů
-- tajemná místa
-	- les, hřbitov, noc
+- ***útěk*** od společnosti
+	- do přírody, minulosti, snů
+	- tajemná místa
+		- les, hřbitov, noc
 
 **Romantický hrdina**
 - výjimečný, osamělý
 - odlišnost
 - cíl: svoboda (od společnosti)
 - často má tragický konec
+- hrdina je poutník, tulák
 
 #### Německo
 - **Novalis (1772–1801)**
@@ -389,7 +387,7 @@ Shakespearea dělíme zhruba na 2 části:
 
 
 #### Francie
-- **Victor Hugo (1802–1885)**
+- **Victor Hugo \[igo] (1802–1885)**
 	- básník, prozaik, dramatik
 	- 
 	- *Chrám Matky Boží v Paříži*
