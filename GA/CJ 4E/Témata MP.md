@@ -463,11 +463,23 @@ Shakespearea dělíme na 2 části
 	- 
 	- *Kronika Pickwickova Klubu*
 	- *Oliver Twist*
+
 #### Francie
 - **Honoré de Balzac**
 	- *Lidská #komedie*
 		- `fr. La Comédie humaine`
 	- *Otec Goriot*
+
+- **Ee**
+
+- **Guy de Maupassant**
+	- *Kulička*
+		- `fr. Boule de suif`
+		- povídka
+	- *Miláček*
+		- `fr. Bel-Ami`
+		- román
+
 #### Rusko
 - **Nikolai Vasiljevič Gogol (1809–1852)**
 	- prozaik, dramatik
