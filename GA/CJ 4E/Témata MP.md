@@ -457,4 +457,12 @@ Shakespearea dělíme na 2 části
 - typický člověk
 - je ve městech
 
+#### Anglie
+- **Charles Dickens (1812–1870)**
+	- jeden ze zakladatelů realismu
+	- 
+	- *Kronika Pickwickova Klubu*
+	- *Oliver Twist*
+
+
 ---
