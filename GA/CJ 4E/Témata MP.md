@@ -335,8 +335,8 @@ Shakespearea dělíme na 2 části
 - původ Anglie
 #### Autoři
 - **Johann Wolfgang von Goethe**
-	- jeden z nejvýznamnějších v Německu #významný
-
+	- jeden z nejvýznamnějších v Německu #významný 
+	- 
 	- *Utrpení mladého Werthera*
 		- milostný román
 	- *Faust*
@@ -468,8 +468,18 @@ Shakespearea dělíme na 2 části
 	- *Lidská #komedie*
 		- `fr. La Comédie humaine`
 	- *Otec Goriot*
-		- 
-
+#### Rusko
+- **Nikolai Vasiljevič Gogol (1809–1852)**
+	- prozaik, dramatik
+	- 
+	- *Petrohradské povídky*
+	- *Revizor*
+		- divadelní hra
+		- kritika společnosti
+- **Fjodor Michajlovič Dostojevskij**
+	- *Zločin a trest*
+		- román
+...
 
 
 ---
