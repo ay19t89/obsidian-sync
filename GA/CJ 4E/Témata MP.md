@@ -463,6 +463,13 @@ Shakespearea dělíme na 2 části
 	- 
 	- *Kronika Pickwickova Klubu*
 	- *Oliver Twist*
+#### Francie
+- **Honoré de Balzac**
+	- *Lidská #komedie*
+		- `fr. La Comédie humaine`
+	- *Otec Goriot*
+		- 
+
 
 
 ---
