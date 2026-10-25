@@ -467,10 +467,14 @@ Shakespearea dělíme na 2 části
 #### Francie
 - **Honoré de Balzac**
 	- *Lidská #komedie*
-		- `fr. La Comédie humaine`
 	- *Otec Goriot*
+		- román
 
-- **Ee**
+- **Émile Zola (1840–1902)**
+	- romány:
+	- *Zabiják*
+	- *Germinal*
+	- *Břicho Paříže*
 
 - **Guy de Maupassant**
 	- *Kulička*
@@ -487,11 +491,12 @@ Shakespearea dělíme na 2 části
 	- *Petrohradské povídky*
 	- *Revizor*
 		- divadelní hra
-		- kritika společnosti
+		- kritika *společnosti*
+
 - **Fjodor Michajlovič Dostojevskij**
 	- *Zločin a trest*
 		- román
-...
 
+...
 
 ---
