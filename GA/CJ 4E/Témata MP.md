@@ -101,8 +101,22 @@
 >> 16.09.2026
 ## Antika
 
-mýtus
-- vysvětlení otázek
+**mýtus**
+- tradiční anonymní příběh
+- který vysvětluje základní otázky
+	- vznik světa, přírodní jevy
+
+**epos**
+- epika
+- rozsáhlý veršovaný text 
+
+#### Teorie literar
+#### Nejstarší literatura
+- *Epos o Gilgamesovi*
+	- 2000 př.n.l.
+	- 1. příklad epického textu
+	- veršovaný, nepravidelný
+
 
 ---
 >> 23.09.2026
