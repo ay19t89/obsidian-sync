@@ -500,7 +500,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- *Oliver Twist*
 
 #### Francie
-- **Honoré de Balzac**aaaa
+- **Honoré de Balzac**
 	- *Lidská #komedie*
 	- *Otec Goriot*
 		- román
