@@ -203,6 +203,7 @@ Staroslověnština od 9.–11. století
 		- rozsáhlá básnická skladba
 - **Francesco Petrarca (1304–1374)**
 	- *Mír nenacházím, k válce síla není*
+	==díla==
 	- *Zpěvník* #významný
 		- `it. Canzoniere`
 		- 366 básni
@@ -233,7 +234,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 
 - **William Shakespeare (1564–1616)**
 	- narodil se v Stratford-upon-Avon, Anglie
-	- 
+	==díla==
 	- #komedie `většinou do 1600`
 		- *Sen noci svatojánské*
 			- `angl. Midsummer Night's Dream`
@@ -271,7 +272,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 - **Jan Blahoslav**
 	- renesanční osobnost
 	- moravský kněz a biskup Jednoty Bratrské
-
+	==díla==
 	- *Musica*
 		- první česká teorie hudby
 	- *Gramatika česká*
@@ -310,12 +311,13 @@ Shakespearovu tvorbu dělíme na 2 části:
 
 #### Barokní autoři (světové)
 > většina v 17. století
+
 - **Pedro Calderon**
 	- velmi významný básník Španělska
 - **John Milton**
 	- jeden z nejvýznamnějších básníků Anglii
 
-#### Baroko v Čechách
+#### Česko
 
 - **Jan Ámos Komenský (1592–1670)**
 	- #nejvýznamnější osobnost české literatury do 19. století
@@ -346,7 +348,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- Jean Baptiste Poquelin \[poklén]
 	- soustředí na 1 špatnou vlastnost - personifikace
 	- ne každá komedie je vtipná
-	- 
+	==díla==
 	- *Lakomec*
 		- drama
 		- prozaická komedie
@@ -365,7 +367,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 #### Autoři
 - **Johann Wolfgang von Goethe**
 	- jeden z nejvýznamnějších v Německu #významný 
-	- 
+	==díla==
 	- *Utrpení mladého Werthera*
 		- milostný román
 	- *Faust*
@@ -388,8 +390,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 		- les, hřbitov, noc
 
 **Romantický hrdina**
-- výjimečný, osamělý
-- odlišnost
+- výjimečný, osamělý, odlišný
 - cíl: svoboda (od společnosti)
 - často má tragický konec
 - hrdina je poutník, tulák
@@ -397,7 +398,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 #### Německo
 - **Novalis (1772–1801)**
 	- Friedrich von Hardenberg
-	- 
+	==díla==
 	- *Heinrich von Ofterdingen*
 		- nedokončený román
 		- Symbol Modrého květu
@@ -412,6 +413,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 
 - **Walter Scott**
 	- zakladatel historického románu
+	==díla==
 	- *Ivanhoe*
 		- anglické dějiny
 	- Waverley
@@ -420,7 +422,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 #### Francie
 - **Victor Hugo \[igo] (1802–1885)**
 	- básník, prozaik, dramatik
-	- 
+	==díla==
 	- *Chrám Matky Boží v Paříži*
 		- historický román
 		- postava Quasimodo
@@ -439,7 +441,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 - **Mikhail Jurjevič Lermontov**
 	- básník, prozaik, dramatik
 	- zemřel v duelu
-	- 
+	==díla==
 	- *Myšlenka*
 		- `ru. Дума`
 		- báseň
@@ -455,7 +457,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 		- horor
 		- detektivky
 		- sci-fi (vědecko-fantastika)
-	- 
+	==díla==
 	- *Jáma a kyvadlo*
 		- epika
 		- horor
@@ -468,7 +470,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 #### Česko
 - **Karel Hynek Mácha (1810–1836)**
 	- #nejvýznamnější představitel českého romantismu
-	- 
+	==díla==
 	- *Máj*
 		- lyricko-epická báseň
 		- hlavní postava Vilém
@@ -489,7 +491,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 #### Anglie
 - **Charles Dickens (1812–1870)**
 	- jeden ze zakladatelů realismu
-	- 
+	==díla==
 	- *Kronika Pickwickova Klubu*
 	- *Oliver Twist*
 
@@ -516,7 +518,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 #### Rusko
 - **Nikolai Vasiljevič Gogol (1809–1852)**
 	- prozaik, dramatik
-	- 
+	==díla==
 	- *Petrohradské povídky*
 	- *Revizor*
 		- divadelní hra
