@@ -110,7 +110,18 @@
 - epika
 - rozsáhlý veršovaný text 
 
-#### Teorie literar
+#### Teorie literatury
+- Aristoteles: Poetika
+	- základy a důležité pojmy
+	- nejstarší dílo o teorii
+	- 6 hlavních složek tragédie
+
+- Zákon 3 jednot
+	- pravidla
+		- jednota místa
+		- jednota času
+		- jednota děje
+
 #### Nejstarší literatura
 - *Epos o Gilgamesovi*
 	- 2000 př.n.l.
