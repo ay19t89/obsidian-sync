@@ -330,7 +330,7 @@ Shakespearea dělíme na 2 části
 >> 21.10.2026
 ## Preromantismus
 
-%% ze slova román, ne romantika%%
+%% ze slova román, ne romantika %%
 - ($\frac{2.}{2}$ 18.) století
 - původ Anglie
 #### Autoři
