@@ -7,7 +7,7 @@
 
 | #literární_druhy | co                               | styl              |
 | ---------------- | -------------------------------- | ----------------- |
-| lyrika           | pocity, subjektivní, žádný děj   | často ve věrších  |
+| lyrika           | pocity, subjektivní              | často ve věrších  |
 | epika            | děj, příběh, událost (vyprávění) | často v próze     |
 | drama            | děj, hra, přímá řeč              | monology, dialogy |
 
@@ -139,7 +139,7 @@
 - anonymní autoři
 
 **Období**
-- 5.–15. století AD (konec Římské impérií - začátek Ameriky)
+- 5.–15. století n.l. (konec Římské říše - začátek Ameriky)
 - cca tisíc let
 
 **Křesťanství**
@@ -149,7 +149,7 @@
 
 **11.–13. století**
 - láska, vztahy
-	- něco co lidí těší nebo trápí
+	- něco, co lidi těší nebo trápí
 - Laicizace literatury
 	- míň literatury od církve, více od laiků (třeba šlechta a měšťanstvo)
 
@@ -159,7 +159,7 @@
 - mysleli že někdo něco zapíše
 
 #### Česká literatura
-začátek v roku 863 AD (příchod Konstantina Cyrila a Metoděje)
+začátek v roce 863 n.l. (příchod Konstantina Cyrila a Metoděje)
 - byly Řekové
 
 - území - Velká Morava
@@ -227,7 +227,7 @@ Staroslověnština od 9.–11. století
 		- román
 		- postava je snílek
 #### Anglie
-Shakespearea dělíme na 2 části
+Shakespearovu tvorbu dělíme na 2 části:
 1. před 1600: komedie a historické hry
 2. po 1600: tragédie
 
@@ -339,12 +339,12 @@ Shakespearea dělíme na 2 části
 **Hrdina klasicismu**
 - plní povinnosti
 - bojuje s emocí, city
-- výběr povinnost `x` pocity
+- výběr povinnosti `x` pocity
 
 #### Autoři
 - **Molière (1622–1673)**
 	- Jean Baptiste Poquelin \[poklén]
-	- soustředí na 1 špatnu vlastnost - personifikace
+	- soustředí na 1 špatnou vlastnost - personifikace
 	- ne každá komedie je vtipná
 	- 
 	- *Lakomec*
@@ -460,7 +460,7 @@ Shakespearea dělíme na 2 části
 		- epika
 		- horor
 		- důraz na monolog
-		- lidský půd sebezáchovy
+		- lidský pud sebezáchovy
 	- *Havran*
 		- báseň
 		- symbolizuje smrt, ztrátu, beznaděj
