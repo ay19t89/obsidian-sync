@@ -125,9 +125,8 @@
 #### Nejstarší literatura
 - *Epos o Gilgamesovi*
 	- 2000 př.n.l.
-	- 1. příklad epického textu
+	- první příklad epického textu
 	- veršovaný, nepravidelný
-
 
 ---
 >> 23.09.2026
@@ -159,7 +158,8 @@
 - mysleli že někdo něco zapíše
 
 #### Česká literatura
-začátek v roce 863 n.l. (příchod Konstantina Cyrila a Metoděje)
+začátek v roce 863 n.l.
+- (příchod Konstantina Cyrila a Metoděje)
 - byly Řekové
 
 - území - Velká Morava
@@ -494,22 +494,22 @@ Shakespearovu tvorbu dělíme na 2 části:
 
 #### Anglie
 - **Charles Dickens (1812–1870)**
-	- jeden ze zakladatelů realismu
+	- jeden ze zakladatelů realismu #významný
 	==díla==
 	- *Kronika Pickwickova Klubu*
 	- *Oliver Twist*
 
 #### Francie
-- **Honoré de Balzac**
+- **Honoré de Balzac**aaaa
 	- *Lidská #komedie*
 	- *Otec Goriot*
 		- román
 
 - **Émile Zola (1840–1902)**
 	- romány:
-	- *Zabiják*
-	- *Germinal*
-	- *Břicho Paříže*
+		- *Zabiják*
+		- *Germinal*
+		- *Břicho Paříže*
 
 - **Guy de Maupassant**
 	- *Kulička*
