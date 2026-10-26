@@ -321,7 +321,11 @@ Shakespearovu tvorbu dělíme na 2 části:
 
 - **Jan Ámos Komenský (1592–1670)**
 	- #nejvýznamnější osobnost české literatury do 19. století
-...
+	- zavedl rozčlenění školství podle věku
+	==díla==
+	- *Labyrint světa a ráj světa* #významný 
+		- filozofický román
+		- 2 hlavní části, celkem 54 kapitol
 
 ---
 >> 14.10.2026
@@ -416,7 +420,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 	==díla==
 	- *Ivanhoe*
 		- anglické dějiny
-	- Waverley
+	- *Waverley*
 		- skotské dějiny
 
 #### Francie
