@@ -29,3 +29,18 @@ prodražovat něco něčemu
 - něco > něčemu
 
 
+---
+#### Funkční styly
+- prostě sdělovací
+- administrativní
+- odborný
+- publicistický
+- umělecký
+
+#### Slohový postup
+- informační
+- vyprávěcí
+- popisný
+- výkladový
+- úvahový
+
