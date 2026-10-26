@@ -98,8 +98,12 @@
 	- polidštění, přenesení lidských vlastností na zvířata, věci
 
 ---
-%%>> 16.09.2026
-## Antika%%
+>> 16.09.2026
+## Antika
+
+mýtus
+- vysvětlení otázek
+
 ---
 >> 23.09.2026
 ## Středověk
