@@ -542,7 +542,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- *Petrohradské povídky*
 	- *Revizor*
 		- divadelní hra
-		- kritika *společnosti*
+		- kritika společnosti
 
 - **Fjodor Michajlovič Dostojevskij**
 	- *Zločin a trest*
