@@ -545,9 +545,11 @@ Shakespearovu tvorbu dělíme na 2 části:
 		- kritika společnosti
 
 - **Fjodor Michajlovič Dostojevskij**
+	- #významný ruský spisovatel a filozof
+	- prozaik, publicista
+	==díla==
 	- *Zločin a trest*
-		- román
-
-...
+		- psychologický román
+		- o víně a trestu chudého studenta
 
 ---
