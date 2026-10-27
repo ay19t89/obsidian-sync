@@ -321,7 +321,8 @@ Shakespearovu tvorbu dělíme na 2 části:
 
 - **Jan Ámos Komenský (1592–1670)**
 	- #nejvýznamnější osobnost české literatury do 19. století
-	- zavedl rozčlenění školství podle věku
+	- český filozof, pedagog, teolog
+	- poslední biskup Jednoty bratrské
 	==díla==
 	- *Labyrint světa a ráj světa* #významný 
 		- filozofický román
