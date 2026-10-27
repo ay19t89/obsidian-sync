@@ -483,27 +483,40 @@ Shakespearovu tvorbu dělíme na 2 části:
 
 ---
 ## Realismus
+
 - ($\frac{2.}{4}$ 19.) století
 - jiná reakce než romantismus
 	- nespokojenost
 	- místo útěku boj
 
 **Hrdina**
-- typický člověk
-- je ve městech
+- typický, průměrný člověk
+- většinou ve městě, mezi lidmi
+- vyvíjí s časem
+- opak romantické hrdiny
 
 #### Anglie
 - **Charles Dickens (1812–1870)**
-	- jeden ze zakladatelů realismu #významný
+	- jeden ze zakladatelů realismu
+	- #nejvýznamnější anglický realista
+	- drsné zážitky z dětství
 	==díla==
 	- *Kronika Pickwickova Klubu*
 	- *Oliver Twist*
 
 #### Francie
 - **Honoré de Balzac**
+	- zakladatel kritického realismu
+	==díla==
 	- *Lidská #komedie*
+		- cyklus
+		- o francouzské společnosti
+		- hrdina:
+			- ambiciózní mladík
+			- touží po úspěchu
 	- *Otec Goriot*
 		- román
+		- o otcovské lásce
 
 - **Émile Zola (1840–1902)**
 	- romány:
@@ -512,6 +525,9 @@ Shakespearovu tvorbu dělíme na 2 části:
 		- *Břicho Paříže*
 
 - **Guy de Maupassant**
+	- povídky
+	- zaměřoval se na morálku a pokrytectví
+	==díla==
 	- *Kulička*
 		- `fr. Boule de suif`
 		- povídka
