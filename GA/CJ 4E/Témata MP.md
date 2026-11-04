@@ -51,10 +51,10 @@
 	- např. židle, vidle
 
 #### ==Figury==
-> definice...
+> zvláštní uspořádání slov 
+> ovlivněny jsou: tvar věty,
 
-- řečnická otázka
-	- rétorická otázka
+- řečnická otázka (rétorická)
 	- protože:
 		- odpověď neexistuje
 		- odpověď je zjevná
@@ -80,7 +80,7 @@
 
 #### ==Tropy (1 tropos)==
 > obrazná pojmenování,
-> pracují s významem
+> přenesený význam
 
 - **metafora**
 	- přenesený význam, na základě vnější podobnosti
@@ -203,7 +203,7 @@ Staroslověnština od 9.–11. století
 		- rozsáhlá básnická skladba
 - **Francesco Petrarca (1304–1374)**
 	- *Mír nenacházím, k válce síla není*
-	==díla==
+	#díla
 	- *Zpěvník* #významný
 		- `it. Canzoniere`
 		- 366 básni
@@ -234,7 +234,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 
 - **William Shakespeare (1564–1616)**
 	- narodil se v Stratford-upon-Avon, Anglie
-	==díla==
+	#díla
 	- #komedie `většinou do 1600`
 		- *Sen noci svatojánské*
 			- `angl. Midsummer Night's Dream`
@@ -272,7 +272,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 - **Jan Blahoslav**
 	- renesanční osobnost
 	- moravský kněz a biskup Jednoty Bratrské
-	==díla==
+	#díla
 	- *Musica*
 		- první česká teorie hudby
 	- *Gramatika česká*
@@ -323,7 +323,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- #nejvýznamnější osobnost české literatury do 19. století
 	- český filozof, pedagog, teolog
 	- poslední biskup Jednoty bratrské
-	==díla==
+	#díla
 	- *Labyrint světa a ráj světa* #významný 
 		- filozofický román
 		- 2 hlavní části, celkem 54 kapitol
@@ -353,7 +353,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- Jean Baptiste Poquelin \[poklén]
 	- soustředí na 1 špatnou vlastnost - personifikace
 	- ne každá komedie je vtipná
-	==díla==
+	#díla
 	- *Lakomec*
 		- drama
 		- prozaická komedie
@@ -372,7 +372,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 #### Autoři
 - **Johann Wolfgang von Goethe**
 	- jeden z nejvýznamnějších v Německu #významný 
-	==díla==
+	#díla
 	- *Utrpení mladého Werthera*
 		- milostný román
 	- *Faust*
@@ -404,7 +404,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 #### Německo
 - **Novalis (1772–1801)**
 	- Friedrich von Hardenberg
-	==díla==
+	#díla
 	- *Heinrich von Ofterdingen*
 		- nedokončený román
 		- Symbol Modrého květu
@@ -419,7 +419,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 
 - **Walter Scott**
 	- zakladatel historického románu
-	==díla==
+	#díla
 	- *Ivanhoe*
 		- anglické dějiny
 	- *Waverley*
@@ -428,7 +428,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 #### Francie
 - **Victor Hugo \[igo] (1802–1885)**
 	- básník, prozaik, dramatik
-	==díla==
+	#díla
 	- *Chrám Matky Boží v Paříži*
 		- historický román
 		- postava Quasimodo
@@ -447,7 +447,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 - **Mikhail Jurjevič Lermontov**
 	- básník, prozaik, dramatik
 	- zemřel v duelu
-	==díla==
+	#díla
 	- *Myšlenka*
 		- `ru. Дума`
 		- báseň
@@ -463,7 +463,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 		- horor
 		- detektivky
 		- sci-fi (vědecko-fantastika)
-	==díla==
+	#díla
 	- *Jáma a kyvadlo*
 		- epika
 		- horor
@@ -476,7 +476,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 #### Česko
 - **Karel Hynek Mácha (1810–1836)**
 	- #nejvýznamnější představitel českého romantismu
-	==díla==
+	#díla
 	- *Máj*
 		- lyricko-epická báseň
 		- hlavní postava Vilém
@@ -490,7 +490,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 - ($\frac{2.}{4}$ 19.) století
 	- 30.–40. léta až do konce století
 - jiná reakce než romantismus
-	- nespokojenost
+	- ==nespokojenost==
 	- místo úniku boj
 
 **Hrdina**
@@ -503,7 +503,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 #### ==Autor==
 - píše romány, povídky
 	- velmi popisné
-- ***zobrazí celou skutečnost***
+- ***zobrazí celou společnost***
 	- člověk a společnost
 	- a jejich problémy
 
@@ -512,14 +512,14 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- jeden ze zakladatelů realismu
 	- #nejvýznamnější anglický realista
 	- drsné zážitky z dětství
-	==díla==
+	#díla
 	- *Kronika Pickwickova Klubu*
 	- *Oliver Twist*
 
 #### ==Francie==
 - **Honoré de Balzac (1799–1850)**
 	- zakladatel kritického realismu
-	==díla==
+	#díla
 	- *Lidská #komedie*
 		- cyklus
 		- o francouzské společnosti
@@ -533,7 +533,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 - **Émile Zola (1840–1902)**
 	- #nejvýznamnější představitel naturalismu
 	- zobrazuje chudobu, alkoholismus, sociální problémy
-	==díla==
+	#díla
 	- romány:
 		- *Zabiják*
 		- *Germinal*
@@ -542,7 +542,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 - **Guy de Maupassant (1850–1893)**
 	- povídky
 	- zaměřoval se na morálku a pokrytectví
-	==díla==
+	#díla
 	- *Kulička*
 		- `fr. Boule de suif`
 		- povídka
@@ -553,7 +553,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 #### ==Rusko==
 - **Nikolai Vasiljevič Gogol (1809–1852)**
 	- prozaik, dramatik
-	==díla==
+	#díla
 	- *Petrohradské povídky*
 	- *Revizor*
 		- divadelní hra
@@ -564,7 +564,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- jeho postavy mají hluboké vnitřní konflikty
 	- zaměřuje se na psychologie a morálku
 	- prozaik, publicista
-	==díla==
+	#díla
 	- *Zločin a trest*
 		- psychologický román
 		- o víně a trestu chudého studenta
