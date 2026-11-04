@@ -379,6 +379,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 		- filozofické drama
 
 ---
+>> 27.10.2026
 ## Romantismus
 
 - ($\frac{1.}{3}$ 19.) století
@@ -483,6 +484,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 		- román
 
 ---
+>> 04.11.2026
 ## Realismus
 
 - ($\frac{2.}{4}$ 19.) století
@@ -498,13 +500,14 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- na běžné životní problémy
 - opak romantické hrdiny
 
-**Autor**
-- román, povídka
+#### ==Autor==
+- píše romány, povídky
+	- velmi popisné
 - ***zobrazí celou skutečnost***
 	- člověk a společnost
 	- a jejich problémy
 
-#### Anglie
+#### ==Anglie==
 - **Charles Dickens (1812–1870)**
 	- jeden ze zakladatelů realismu
 	- #nejvýznamnější anglický realista
@@ -513,7 +516,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- *Kronika Pickwickova Klubu*
 	- *Oliver Twist*
 
-#### Francie
+#### ==Francie==
 - **Honoré de Balzac (1799–1850)**
 	- zakladatel kritického realismu
 	==díla==
@@ -544,7 +547,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 		- `fr. Bel-Ami`
 		- román
 
-#### Rusko
+#### ==Rusko==
 - **Nikolai Vasiljevič Gogol (1809–1852)**
 	- prozaik, dramatik
 	==díla==
