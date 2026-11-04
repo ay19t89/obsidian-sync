@@ -1,15 +1,15 @@
 >> 02.09.2026
 ## Literární pojmy
-| #literární_formy | styl  |
-| ---------------- | ----- |
-| próza            | věty  |
-| poezie           | verše 
 
-| #literární_druhy | co                               | styl              |
-| ---------------- | -------------------------------- | ----------------- |
-| lyrika           | pocity, subjektivní              | často ve věrších  |
-| epika            | děj, příběh, událost (vyprávění) | často v próze     |
-| drama            | děj, hra, přímá řeč              | monology, dialogy |
+#literární_formy 
+- próza
+- poezie          
+
+| #literární_druhy | co                               |   
+| ---------------- | -------------------------------- |
+| lyrika           | pocity, subjektivní              |     
+| epika            | děj, příběh, událost (vyprávění) |     
+| drama            | děj, hra, přímá řeč              |     
 
 #literární_žánry
 - **lyrické žánry**
@@ -45,14 +45,14 @@
 	- opak vázaného $\uparrow$
 
 - rytmus
-	- pravidelné střídání slabik ...
+	- pravidelné střídání přízvučných a nepřízvučných slabik
 - rým
 	- zvuková shoda na konci veršů
 	- např. židle, vidle
 
 #### ==Figury==
-> zvláštní uspořádání slov 
-> ovlivněny jsou: tvar věty,
+> zvláštní uspořádání slov ale význam nemění,
+> ovlivněny jsou: tvar věty, slovosled, zvuková stránka
 
 - řečnická otázka (rétorická)
 	- protože:
@@ -71,11 +71,12 @@
 - epifora
 	- na konci veršů, vět (po sobě jdoucích)
 - epizeuxis
-	- těsně za sebou v jedné verši, větě
+	- těsně za sebou v jednom verši, větě
 	- "Ach synku, synku..." (Lidová písnička)
 
+**Opakování stejných hlásek**
 - aliterace
-	- opakování (stejných) hlásek na začátku sousedních slov
+	- na začátku sousedních slov
 	- např: "**P**otkal **p**otkan **p**otkana u **p**otoka."
 
 #### ==Tropy (1 tropos)==
