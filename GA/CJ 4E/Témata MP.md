@@ -490,8 +490,8 @@ Shakespearovu tvorbu dělíme na 2 části:
 - jiná reakce než romantismus
 	- nespokojenost
 	- místo útěku boj
-- zobrazit skutečnost bez idealizace
-	- člověka a společnost
+- zobrazit skutečnost
+	- člověk a společnost
 	- a jejich problémy
 
 **Hrdina**
@@ -511,7 +511,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- *Oliver Twist*
 
 #### Francie
-- **Honoré de Balzac**
+- **Honoré de Balzac (1799–1850)**
 	- zakladatel kritického realismu
 	==díla==
 	- *Lidská #komedie*
@@ -530,7 +530,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 		- *Germinal*
 		- *Břicho Paříže*
 
-- **Guy de Maupassant**
+- **Guy de Maupassant (1850–1893)**
 	- povídky
 	- zaměřoval se na morálku a pokrytectví
 	==díla==
@@ -550,8 +550,10 @@ Shakespearovu tvorbu dělíme na 2 části:
 		- divadelní hra
 		- kritika společnosti
 
-- **Fjodor Michajlovič Dostojevskij**
+- **Fjodor Michajlovič Dostojevskij (1821–1881)**
 	- #významný ruský spisovatel a filozof
+	- jeho postavy mají hluboké vnitřní konflikty
+	- zaměřuje se na psychologie a morálku
 	- prozaik, publicista
 	==díla==
 	- *Zločin a trest*
