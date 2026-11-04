@@ -531,6 +531,9 @@ Shakespearovu tvorbu dělíme na 2 části:
 		- o otcovské lásce
 
 - **Émile Zola (1840–1902)**
+	- #nejvýznamnější představitel naturalismu
+	- zobrazuje chudobu, alkoholismus, sociální problémy
+	==díla==
 	- romány:
 		- *Zabiják*
 		- *Germinal*
