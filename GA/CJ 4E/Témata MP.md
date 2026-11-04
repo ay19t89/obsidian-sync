@@ -489,10 +489,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- 30.–40. léta až do konce století
 - jiná reakce než romantismus
 	- nespokojenost
-	- místo útěku boj
-- zobrazit skutečnost
-	- člověk a společnost
-	- a jejich problémy
+	- místo úniku boj
 
 **Hrdina**
 - typický, průměrný člověk
@@ -500,6 +497,12 @@ Shakespearovu tvorbu dělíme na 2 části:
 - vyvíjí s časem
 	- na běžné životní problémy
 - opak romantické hrdiny
+
+**Autor**
+- román, povídka
+- ***zobrazí celou skutečnost***
+	- člověk a společnost
+	- a jejich problémy
 
 #### Anglie
 - **Charles Dickens (1812–1870)**
