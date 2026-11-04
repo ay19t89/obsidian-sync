@@ -486,14 +486,19 @@ Shakespearovu tvorbu dělíme na 2 části:
 ## Realismus
 
 - ($\frac{2.}{4}$ 19.) století
+	- 30.–40. léta až do konce století
 - jiná reakce než romantismus
 	- nespokojenost
 	- místo útěku boj
+- zobrazit skutečnost bez idealizace
+	- člověka a společnost
+	- a jejich problémy
 
 **Hrdina**
 - typický, průměrný člověk
 - většinou ve městě, mezi lidmi
 - vyvíjí s časem
+	- na běžné životní problémy
 - opak romantické hrdiny
 
 #### Anglie
