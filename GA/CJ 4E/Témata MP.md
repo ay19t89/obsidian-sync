@@ -5,11 +5,11 @@
 - próza
 - poezie          
 
-| #literární_druhy | co                               |   
+| #literární_druhy | co                               |
 | ---------------- | -------------------------------- |
-| lyrika           | pocity, subjektivní              |     
-| epika            | děj, příběh, událost (vyprávění) |     
-| drama            | děj, hra, přímá řeč              |     
+| lyrika          | pocity, subjektivní              |
+| epika         | děj, příběh, událost (vyprávění) |
+| drama        | děj, hra, přímá řeč              |
 
 #literární_žánry
 - **lyrické žánry**
@@ -60,8 +60,11 @@
 		- odpověď je zjevná
 		- řečník si na ni hned odpoví
 - inverze
+	- upravený, nepřirozený slovosled
+	- např: "voda chladná", "smrt a život"
 - refrén
 - elipsa
+	- 
 - aposiopeze
 	- přerušená výpověď
 
