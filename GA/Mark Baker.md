@@ -1,7 +1,7 @@
 - Arnold 
 - hotels not great
 
-#### Arnold
+#### Arnold K.
 - actually StB informant
 	- asked lots of qs
 	- shared small talk with StB
@@ -9,7 +9,7 @@
 	- he translated and q&a could be changed
 - looking back
 	- too friendly, too inquisitive
-	- no one 
+	- no one mentioned that they don't know AK
 
 #### Archive
 - hundreds of pages
