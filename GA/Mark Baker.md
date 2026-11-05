@@ -15,5 +15,11 @@
 - hundreds of pages
 - he said he will take MB there when MB returns to Prague
 
+**Seeing the info**
+> "there's no way this can get leaked"
+- One day was recorded from start to finish
+	- June 29, 1989
+	- 
+
 
 #### Greatest miss
