@@ -19,7 +19,6 @@
 > "there's no way this can get leaked"
 - One day was recorded from start to finish
 	- June 29, 1989
-	- 
 
 
 #### Greatest miss
