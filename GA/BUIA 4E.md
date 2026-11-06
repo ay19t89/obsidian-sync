@@ -116,7 +116,7 @@ print(gcd_recursive(48, 18))  # 6
 
 ---
 >> 06.11.2026
-
+## Binární stromy
 
 
 ```python
@@ -135,8 +135,6 @@ def vyska1(k):
     pruchod(k, 1)
     return h
 ```
-
-
 
 ```python
 def vyska2(k):
@@ -159,4 +157,35 @@ def vyska3(k):
             z.append((vrchol.pravy, hloubka + 1))
     return h
 ```
+
+```python
+def vyska4(k):
+    f = [(k, 1)]
+    while f:
+        vrchol, hloubka = f.pop(0)
+        if vrchol.levy:
+            f.append((vrchol.levy, hloubka + 1))
+        if vrchol.pravy:
+            f.append((vrchol.pravy, hloubka + 1))
+            
+    return hloubka
+```
+
+```python
+def vyska5(k):
+    h = 0
+    while f:
+        vrchol, hloubka = f.pop(0)
+        if vrchol.levy:
+            f.append((vrchol.levy, hloubka + 1))
+        if vrchol.pravy:
+            f.append((vrchol.pravy, hloubka + 1))
+            
+    return hloubka
+```
+
+**Rozdíly**
+ - `vyska1` používá vnitřní rekurzivní funkci s proměnnou nonlocal a neošetřuje prázdný strom.
+ - `vyska2` využívá čistou rekurzi s návratovou hodnotou max a správně ošetřuje prázdný strom.
+ - `vyska3` je iterativní řešení s explicitním zásobníkem, které eliminuje riziko přetečení rekurzivního zásobníku.
 
