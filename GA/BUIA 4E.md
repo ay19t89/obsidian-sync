@@ -220,3 +220,9 @@ graph TD
     d2 --> 125
     d2 --> 154
 ```
+
+```mermaid
+graph TD
+	A --> B
+	A --> b
+```
