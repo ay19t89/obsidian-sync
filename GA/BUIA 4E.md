@@ -176,7 +176,7 @@ def vyska5(k):
     h = 0
     vrstva = [k]
     while vrstva:
-        h++
+        h++ # h += 1
         nova = []
         for x in vrstva:
 	        if x.levy:
