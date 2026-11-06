@@ -114,3 +114,49 @@ print(gcd_recursive(48, 18))  # 6
 
 [Classroom >> 16.10.2026](https://classroom.google.com/c/NTQ0Nzg4MTAzMjk2/m/ODkyNjEzOTM1NTk4/details)
 
+---
+>> 06.11.2026
+
+
+
+```python
+def vyska1(k):
+    h = 0
+    def pruchod(uzel, hloubka):
+        nonlocal h
+
+        if hloubka > h:
+            h = hloubka
+        if uzel.levy:
+            pruchod(uzel.levy, hloubka + 1)
+        if uzel.pravy:
+            pruchod(uzel.pravy, hloubka + 1)
+
+    pruchod(k, 1)
+    return h
+```
+
+
+
+```python
+def vyska2(k):
+    if k == None:
+        return 0
+    return max(vyska2(k.levy), vyska2(k.pravy)) + 1
+```
+
+```python
+def vyska3(k):
+    h = 0
+    z = [(k, 1)]
+    while z:
+        vrchol, hloubka = z.pop()
+        if hloubka > h:
+            h = hloubka
+        if vrchol.levy:
+            z.append((vrchol.levy, hloubka + 1))
+        if vrchol.pravy:
+            z.append((vrchol.pravy, hloubka + 1))
+    return h
+```
+
