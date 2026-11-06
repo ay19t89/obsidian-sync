@@ -201,6 +201,7 @@ def vyska5(k):
 
 **Binární vyhledávací strom**
 
+
 ```mermaid
 graph TD
     A[50] --> B[20]
@@ -210,11 +211,12 @@ graph TD
     C --> D1[28]
     C --> D2[42]
     
+    %% () je přidány %%
     b --> c1[60]
     b --> c2[128]
     c1 --> d1(80)
     c2 --> d2[130]
-    c2 --> d3
+    c2 --> d3(97)
     d2 --> 125
     d2 --> 154
 ```
