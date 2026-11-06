@@ -174,18 +174,24 @@ def vyska4(k):
 ```python
 def vyska5(k):
     h = 0
-    while f:
-        vrchol, hloubka = f.pop(0)
-        if vrchol.levy:
-            f.append((vrchol.levy, hloubka + 1))
-        if vrchol.pravy:
-            f.append((vrchol.pravy, hloubka + 1))
+    vrstva = [k]
+    while vrstva:
+        h++
+        nova = []
+        for x in vrstva:
+	        if x.levy:
+	            nova.append(x.levy)
+	        if x.pravy:
+	            nova.append(x.pravy)
             
     return hloubka
 ```
 
 **Rozdíly**
- - `vyska1` používá vnitřní rekurzivní funkci s proměnnou nonlocal a neošetřuje prázdný strom.
- - `vyska2` využívá čistou rekurzi s návratovou hodnotou max a správně ošetřuje prázdný strom.
- - `vyska3` je iterativní řešení s explicitním zásobníkem, které eliminuje riziko přetečení rekurzivního zásobníku.
+ - `vyska1`: Rekurzivní DFS s vnořenou funkcí a modifikací proměnné h přes nonlocal.
+ - `vyska2`: Čistá rekurze bez pomocných proměnných využívající funkci max a kontrolu na None.
+ - `vyska3`: Iterativní DFS využívající explicitní zásobník (z.pop()) a průběžné sledování maxima h.
+ - `vyska4`: Iterativní BFS (fronta pomocí pop(0)), která spoléhá na to, že poslední vybraný prvek má maximální hloubku.
+ - `vyska5`: Iterativní BFS po vrstvách, která obsahuje syntaktické chyby (h++) a vrací nedefinovanou proměnnou (hloubka).
+
 
