@@ -184,7 +184,7 @@ def vyska5(k):
 	        if x.pravy:
 	            nova.append(x.pravy)
             
-    return hloubka
+    return h
 ```
 
 **Rozdíly**
@@ -194,4 +194,20 @@ def vyska5(k):
  - `vyska4`: Iterativní BFS (fronta pomocí pop(0)), která spoléhá na to, že poslední vybraný prvek má maximální hloubku.
  - `vyska5`: Iterativní BFS po vrstvách, která obsahuje syntaktické chyby (h++) a vrací nedefinovanou proměnnou (hloubka).
 
+**BS**
+- různé info
+	- max hodnota
+	- číslo hladiny
 
+**Binární vyhledávací strom**
+
+```mermaid
+graph TD
+    A[50] --> B[20]
+    A --> b[95]
+    B --> C[35]
+    b --> c1[60]
+    b --> c2[128]
+    C --> d1[28]
+    C --> d2[42]
+```
