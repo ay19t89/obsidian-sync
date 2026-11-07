@@ -298,7 +298,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 - **Daniel Adam z Veleslavína**
 	- Veleslavín v Praze
 	- vlastnil vydavatelství a tiskárny
-	- ...
+	 %% ještě něco přidat ... %%
 	- Veleslavínská čeština - druhý základ obrození
 ---
 ## Baroko
