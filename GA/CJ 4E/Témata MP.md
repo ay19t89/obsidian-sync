@@ -168,17 +168,22 @@
 	- byl církevní jazyk (spisovný bohoslužebný jazyk)
 	- hlaholice - nejstarší slovanské písmo
 
-Staroslověnština od 9.–11. století
-- zákaz v roku 1097
-- potom jenom latina
-
-**Staroslověnské texty**
-- Proglas
-- Život Konstantinův
+**Staroslověnština**
+- od 9.–11. století
+	- zákaz v roku 1097
+	- potom jenom latina
+	
+důležitá #díla
+- *Proglas*
+- *Život Konstantinův*
 
 **Latinské texty**
-- 
+- *Kosmova kronika*
+	- taky *Kronika česká*
 
+**České texty**
+- *Hospodine, pomiluj ny*
+- *Dalimilova kronika*
 
 - - -
 >> 29.09.2026
