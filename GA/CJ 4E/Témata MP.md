@@ -157,27 +157,36 @@
 	- míň literatury od církve, více od laiků (třeba šlechta a měšťanstvo)
 
 #### Česká literatura
-začátek v roce 863 n.l.
-- (příchod Konstantina Cyrila a Metoděje)
-- byli Řekové
+
+- začátek v roce 863 n.l.
+	- příchod Konstantina Cyrila a Metoděje
+	- byli Řekové
 
 - území - Velká Morava
 - staroslověnština
 	- první slovanský spisovný jazyk
-	- je to církevní jazyk (spisovný bohoslužebný jazyk)
+	- byl církevní jazyk (spisovný bohoslužebný jazyk)
 	- hlaholice - nejstarší slovanské písmo
 
 Staroslověnština od 9.–11. století
 - zákaz v roku 1097
-- Potom jenom latina
-...
+- potom jenom latina
+
+**Staroslověnské texty**
+- Proglas
+- Život Konstantinův
+
+**Latinské texty**
+- 
+
+
 - - -
 >> 29.09.2026
 ## Renesance
 
 - znovuzrození antiky
 - 14.–16. století
-- hlavní pojem - člověk
+- důležitý pojem - člověk
 
 **Člověk:**
 - poznání - věda, objev, umění 
