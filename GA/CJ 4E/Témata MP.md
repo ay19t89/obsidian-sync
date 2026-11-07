@@ -137,7 +137,7 @@
 ## Středověk
 
 **Hlavní pojmy**
-- křesťanství, církev
+- křesťanství
 - duchovní tématika
 - anonymní autoři
 
@@ -156,15 +156,10 @@
 - Laicizace literatury
 	- míň literatury od církve, více od laiků (třeba šlechta a měšťanstvo)
 
-**Normální člověk - vliv**
-- nomádské zpěváci a herci
-- nižší šlechta
-- mysleli že někdo něco zapíše
-
 #### Česká literatura
 začátek v roce 863 n.l.
 - (příchod Konstantina Cyrila a Metoděje)
-- byly Řekové
+- byli Řekové
 
 - území - Velká Morava
 - staroslověnština
