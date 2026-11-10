@@ -51,7 +51,7 @@
 	- např. židle, vidle
 
 #### ==Figury==
-> zvláštní uspořádání slov ale význam nemění,
+> zvláštní uspořádání slov, nemění se význam,
 > ovlivněny jsou: tvar věty, slovosled, zvuková stránka
 
 - řečnická otázka (rétorická)
