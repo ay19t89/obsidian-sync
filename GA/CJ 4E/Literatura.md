@@ -24,13 +24,17 @@ světová literatura
 ---
 >> 11.11.2026
 ### Existencialismus
-- bytí, smysl (života)
+
+- hledání smyslu (života), bytí
+	- v poválečném světě
 - vznikl po 1. sv. válka
 	- v Německu
 ##### Autoři
-- **Alfred Camus**
+- **Alfred Camus** \[Kami]
+	#díla
 	- *Mýtus o Sisyfovi*
 	- *Cizinec*
+		- román
 - **Jean-Paul Sartre**
 	- filozof, prozaik
 	#díla 
@@ -46,7 +50,7 @@ světová literatura
 - filmu - záběr
 
 #### Itálie
-> Neorealismus v Itálii
+> v Itálii tzv. ==Neorealismus==
 - projevuje
 	- v literatuře
 	- ve filmů (F. Fellini)
@@ -60,5 +64,6 @@ světová literatura
 > $\rightarrow$ univerzitní román
 
 ##### Autoři
-Kingsley Amis
-Šťastný Jim
+- **Kingsley Amis**
+	- *Šťastný Jim*
+
