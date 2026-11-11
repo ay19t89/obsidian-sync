@@ -1,6 +1,5 @@
-
+%%
 >> *08.09.2026*
-
 ### *Zobrazení 2. světové války v literatuře*
 literatura je obraz společnosti
 
@@ -20,18 +19,28 @@ světová literatura
 | teď                                  | zpětně (hodnocení)                       |
 | sebejiste                            | pochybující (navazující hodnotící)       |
 | Joseph GOEBBLES<br>Deník (1923-1945) | Winston CHURCHILL<br>Druhá světová válka |
-
+%%
 
 ---
 >> 11.11.2026
-
-#### Existencialismus
+### Existencialismus
 - bytí, smysl (života)
 - vznikl po 1. sv. válka
 	- v Německu
-
-**Autoři**
+##### Autoři
 - **Alfred Camus**
-	- Mýtus o Sisyfovi
-	- Cizinec
+	- *Mýtus o Sisyfovi*
+	- *Cizinec*
 - **Jean-Paul Sartre**
+	- filozof, prozaik
+	#díla 
+	- *Nevolnost*
+		- román
+
+### Moderní realismus
+- Neorealismus v Itálii
+	- projevuje
+		- v literatuře
+		- ve filmů
+			- F. Fellini
+

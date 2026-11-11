@@ -591,5 +591,4 @@ Shakespearovu tvorbu dělíme na 2 části:
 		- o víně a trestu chudého studenta
 
 ---
->> 11.11.2026
 
