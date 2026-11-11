@@ -572,6 +572,9 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- prozaik, dramatik
 	#díla
 	- *Petrohradské povídky*
+	- *Mrtvé duše*
+		- román
+		- 
 	- *Revizor*
 		- divadelní hra
 		- kritika společnosti
