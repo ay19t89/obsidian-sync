@@ -573,8 +573,9 @@ Shakespearovu tvorbu dělíme na 2 části:
 	#díla
 	- *Petrohradské povídky*
 	- *Mrtvé duše*
-		- román
-		- 
+		- satirický román
+		- hrdina P. I. Čičikov
+		- kupuje "mrtvé duše"
 	- *Revizor*
 		- divadelní hra
 		- kritika společnosti
