@@ -38,9 +38,27 @@ světová literatura
 		- román
 
 ### Moderní realismus
-- Neorealismus v Itálii
-	- projevuje
-		- v literatuře
-		- ve filmů
-			- F. Fellini
 
+
+**Základní jednotka:**
+- prózy - věta
+- poezii - verš
+- filmu - záběr
+
+#### Itálie
+> Neorealismus v Itálii
+- projevuje
+	- v literatuře
+	- ve filmů (F. Fellini)
+##### Autoři
+- **Alberto Moravia**
+	- *Horalka*
+	- *Římanka*
+
+#### Anglie
+> "rozhněvaní mladí muži"
+> $\rightarrow$ univerzitní román
+
+##### Autoři
+Kingsley Amis
+Šťastný Jim
