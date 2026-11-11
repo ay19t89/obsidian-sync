@@ -282,7 +282,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 - vzdělání
 - poznání, věda
 #### Autoři
-- **Jan Blahoslav**
+- **Jan Blahoslav (1523–1571)**
 	- renesanční osobnost
 	- moravský kněz a biskup Jednoty Bratrské
 	#díla
@@ -304,6 +304,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 ## Baroko
 
 - 16.–18. století
+- hlavní pojem - kontrast
 
 **Barokní kontrast:**
 - Bůh (dokonalý)
