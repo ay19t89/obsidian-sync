@@ -280,6 +280,9 @@ Shakespearovu tvorbu dělíme na 2 části:
 
 **Důležité pojmy**
 - vzdělání
+- dokonalý jazyk
+	- reprezentuje Kralická Bible
+	- 
 - poznání, věda
 #### Autoři
 - **Jan Blahoslav (1523–1571)**
@@ -584,3 +587,5 @@ Shakespearovu tvorbu dělíme na 2 části:
 		- o víně a trestu chudého studenta
 
 ---
+>> 11.11.2026
+
