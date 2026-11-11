@@ -327,7 +327,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 > většina v 17. století
 
 - **Pedro Calderon**
-	- velmi významný básník Španělska
+	- velmi #významný básník Španělska
 - **John Milton**
 	- jeden z nejvýznamnějších básníků Anglii
 
