@@ -29,7 +29,14 @@
 	- povídka
 	- bajka
 	- pohádka
-	- legenda
+		- Lidová pohádka
+			- neznámé autory
+			- používají magická čísla, může být drastickým
+			- Perníková chaloupce
+		- Moderní pohádka
+			- známý autor
+			- odlehčenější
+	- legenda, báje
 - **dramatické žánry** 
 	- komedie
 	- tragédie
@@ -72,7 +79,6 @@
 	- např: "voda chladná", "smrt a život"
 - refrén
 - elipsa
-	- 
 - aposiopeze
 	- přerušená výpověď
 
