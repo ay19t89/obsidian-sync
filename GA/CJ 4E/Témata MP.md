@@ -17,6 +17,9 @@
 	- elegie
 	- ...
 - **epické žánry**
+	- epos
+		- Epos o Gilgamešovi
+		- Ilias a Odyssea
 	- román
 		- rytířský román
 			- ve středověku, hrdina rytíř
