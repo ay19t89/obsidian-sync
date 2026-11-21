@@ -18,6 +18,11 @@
 	- ...
 - **epické žánry**
 	- román
+		- rytířský román
+			- ve středověku, hrdina rytíř
+		- román-řeka
+			- super rozsáhlý román
+			- mnoho epizod
 	- povídka
 	- bajka
 	- pohádka
@@ -210,7 +215,7 @@ důležitá #díla
 **Renesanční osobnost**
 - velmi vzdělaná
 - není úzce specializovaná
-#### Itálie
+#### ==Itálie==
 - **Dante Alighieri**
 	- *Božská komedie*
 		- rozsáhlá básnická skladba
@@ -224,7 +229,7 @@ důležitá #díla
 	- *Dekameron*
 		- epika, próza
 		- novela/povídka
-#### Francie
+#### ==Francie==
 - **Francois Villon (1431–1463)**
 	- básník
 	- 3 básně:
@@ -235,12 +240,12 @@ důležitá #díla
 - **Francois Rabelais** \[rablé]
 	- *Gargantua a Pantagruel*
 		- román
-#### Španělsko
+#### ==Španělsko==
 - **Miguel de Cervantes**
 	- *Don Quijote*
 		- román
 		- postava je snílek
-#### Anglie
+#### ==Anglie==
 Shakespearovu tvorbu dělíme na 2 části:
 1. před 1600: komedie a historické hry
 2. po 1600: tragédie
@@ -334,7 +339,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 - **John Milton**
 	- jeden z nejvýznamnějších básníků Anglii
 
-#### Česko
+#### ==Česko==
 
 - **Jan Ámos Komenský (1592–1670)**
 	- #nejvýznamnější osobnost české literatury do 19. století
