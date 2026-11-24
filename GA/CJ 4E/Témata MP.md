@@ -288,7 +288,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 >> 07.10.2026
 ## Český humanismus
 
-- ($\frac{2.}{2}$ 15.) do ($\frac{1.}{4}$ 17.) století
+- ($\frac{2.}{2}$ 15.) – ($\frac{1.}{4}$ 17.) století
 - renesance - příběh o lidech
 - humanismus - duchovní rozvoj, vzdělání člověka
 
@@ -364,7 +364,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 ## Klasicismus
 
 - začátek: Francie
-- ($\frac{2.}{2}$ 17. ) - ($\frac{1.}{2}$ 18.) století
+- ($\frac{2.}{2}$ 17.) – ($\frac{1.}{2}$ 18.) století
 - důraz na rozum
 
 **návrat k *antice***
@@ -607,3 +607,11 @@ Shakespearovu tvorbu dělíme na 2 části:
 ---
 >> 25.11.2026
 ## Národní obrození
+
+- ($\frac{3.}{3}$ 18.) – ($\frac{1.}{2}$ 19.) století
+- obnova jazyku, spojuje národ
+
+$I.$ období
+
+
+
