@@ -611,7 +611,14 @@ Shakespearovu tvorbu dělíme na 2 části:
 - ($\frac{3.}{3}$ 18.) – ($\frac{1.}{2}$ 19.) století
 - obnova jazyku, spojuje národ
 
-$I.$ období
+#### I. období
+- cca 1775–1805
+- emancipace - zachovat jazyk
 
+#### II. období
+- cca 1805–1830
+
+#### III. období
+- cca 1830–1848
 
 
