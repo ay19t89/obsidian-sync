@@ -609,14 +609,27 @@ Shakespearovu tvorbu dělíme na 2 části:
 ## Národní obrození
 
 - ($\frac{3.}{3}$ 18.) – ($\frac{1.}{2}$ 19.) století
-- obnova jazyku, spojuje národ
+- obnova jazyku, záchrana národa
 
 #### I. období
 - cca 1775–1805
 - emancipace - zachovat jazyk
 
+**Autoři**
+- **Josef Dobrovský**
+- **Václav Matěj Krameius**
+- **Václav Tham**
+
 #### II. období
 - cca 1805–1830
+- rozvoj jazyku
+
+**Autoři**
+- **František La**
+
+---
+
+## Vrchol národního obrození
 
 #### III. období
 - cca 1830–1848
