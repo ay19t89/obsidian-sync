@@ -684,8 +684,8 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- *Hadrián z Římsů*
 
 #### Rukopisy
-- královéhradecký - 13. století
-- zelenohorský - 9. století
+- královédvorský
+- zelenohorský
 - lyricko-epické básně
 
 ---
