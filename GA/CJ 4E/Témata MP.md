@@ -658,7 +658,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 - podobná kultura a jazyk
 
 **Autoři**
-- **František Ladislav Čelakovský**
+- **František Ladislav Čelakovský (1799–1852)**
 	- poezie
 - **Jan Kollár**
 
@@ -668,5 +668,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 
 #### III. období
 - cca 1830–1848
+- politika
+	- od jazyka a kultury k politice
 
 
