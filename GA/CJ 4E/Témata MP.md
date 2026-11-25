@@ -662,18 +662,25 @@ Shakespearovu tvorbu dělíme na 2 části:
 **Autoři**
 - **František Ladislav Čelakovský (1799–1852)**
 	- poezie
+	#díla
 	- *Ohlas písně ruských*
-	- 
+		- 26 epických básní
+		- motivy: hrdinství, boje, vlastenectví, ruská krajina
 	- *Ohlas písně českých*
+		- 56 bas
 
 - **Jan Kollár**
+	- poezie
+	#díla
 	- *Slávy dcery*
 		- sbírka básni
 		- Slávie je slovanská bohyně
 		- dcerou Slavií je každá slovanská dívka
 
 - **Václav Kliment Klicpera**
-	- *Veselohra*
+	- *Veselohra na mostě*
+		- převážně krátké, jednoduché hry
+	- *Hadrián z Římsů*
 
 ---
 
