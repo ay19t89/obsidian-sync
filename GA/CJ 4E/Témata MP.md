@@ -639,8 +639,8 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- *Zevrubná mluvnice jazyka českého*
 	- *Dějiny české řeči a literatury*
 
-- **Václav Matěj Krameius**
-	- noviny
+- **Václav Matěj Kramerius**
+	- noviny české
 
 - **Václav Tham**
 	- divadlo

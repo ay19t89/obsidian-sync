@@ -43,7 +43,6 @@ světová literatura
 
 ### Moderní realismus
 
-
 **Základní jednotka:**
 - prózy - věta
 - poezii - verš
@@ -67,3 +66,10 @@ světová literatura
 - **Kingsley Amis**
 	- *Šťastný Jim*
 
+---
+>> 25.11.2026
+## Vrchol národního obrození
+
+#### Autory
+- Karel Hynek Mácha
+	- 
