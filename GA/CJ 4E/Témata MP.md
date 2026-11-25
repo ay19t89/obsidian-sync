@@ -639,14 +639,21 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- *Zevrubná mluvnice jazyka českého*
 	- *Dějiny české řeči a literatury*
 - **Václav Matěj Krameius**
+	- noviny
 - **Václav Tham**
+	- divadlo 23-24https
 
+**První divadlo Bouda**
+- stalo na Koňském trhu (Václavské náměstí)
+- dřevěné, neodpovídala požárním předpisům
+- hrálo se výhradně česk6
 #### II. období
 - cca 1805–1830
 - rozvoj jazyku
+	- zvýšit úroveň vědy, umění, kultury
 
 **Autoři**
-- **František Ladislav**
+- **František Ladislav Čelakovský**
 
 ---
 
