@@ -609,8 +609,15 @@ Shakespearovu tvorbu dělíme na 2 části:
 ## Národní obrození
 
 - ($\frac{3.}{3}$ 18.) – ($\frac{1.}{2}$ 19.) století
-- obnova jazyku, záchrana národa
+- proces obnovení jazyka
+- emancipace národa
 
+**Proces národního obrození (70–80 let)** 
+- I. období
+	- $\frac{4.}{4}$ 18. století
+	- jazyk
+- II. období
+	- 
 #### I. období
 - cca 1775–1805
 - emancipace - zachovat jazyk
