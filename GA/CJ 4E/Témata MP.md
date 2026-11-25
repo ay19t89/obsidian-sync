@@ -617,13 +617,27 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- $\frac{4.}{4}$ 18. století
 	- jazyk
 - II. období
+	- $\frac{1.}{4}$ 19. století
+	- rozvoj
+- III. období
+	- $\frac{2.}{4}$ 19. století
+	- politika
 	- 
 #### I. období
 - cca 1775–1805
-- emancipace - zachovat jazyk
+- zachovat jazyk
+
+**Noviny**
+- hlavní forma
+- dostupnost,  lehká distribuce
+- nižší cena
 
 **Autoři**
 - **Josef Dobrovský**
+	- jazykovědec, historik
+	#díla 
+	- *Zevrubná mluvnice jazyka českého*
+	- *Dějiny české řeči a literatury*
 - **Václav Matěj Krameius**
 - **Václav Tham**
 
@@ -632,7 +646,7 @@ Shakespearovu tvorbu dělíme na 2 části:
 - rozvoj jazyku
 
 **Autoři**
-- **František La**
+- **František Ladislav**
 
 ---
 
