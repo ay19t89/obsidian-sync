@@ -638,8 +638,10 @@ Shakespearovu tvorbu dělíme na 2 části:
 	#díla 
 	- *Zevrubná mluvnice jazyka českého*
 	- *Dějiny české řeči a literatury*
+
 - **Václav Matěj Krameius**
 	- noviny
+
 - **Václav Tham**
 	- divadlo
 
@@ -660,7 +662,18 @@ Shakespearovu tvorbu dělíme na 2 části:
 **Autoři**
 - **František Ladislav Čelakovský (1799–1852)**
 	- poezie
+	- *Ohlas písně ruských*
+	- 
+	- *Ohlas písně českých*
+
 - **Jan Kollár**
+	- *Slávy dcery*
+		- sbírka básni
+		- Slávie je slovanská bohyně
+		- dcerou Slavií je každá slovanská dívka
+
+- **Václav Kliment Klicpera**
+	- *Veselohra*
 
 ---
 
