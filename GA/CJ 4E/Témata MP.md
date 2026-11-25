@@ -641,19 +641,26 @@ Shakespearovu tvorbu dělíme na 2 části:
 - **Václav Matěj Krameius**
 	- noviny
 - **Václav Tham**
-	- divadlo 23-24https
+	- divadlo
 
 **První divadlo Bouda**
 - stalo na Koňském trhu (Václavské náměstí)
 - dřevěné, neodpovídala požárním předpisům
-- hrálo se výhradně česk6
+- hrálo se výhradně česky
+
 #### II. období
 - cca 1805–1830
 - rozvoj jazyku
 	- zvýšit úroveň vědy, umění, kultury
 
+**Myšlenka slovanské vzájemnosti**
+- spojení Čechů a Slováků
+- podobná kultura a jazyk
+
 **Autoři**
 - **František Ladislav Čelakovský**
+	- poezie
+- **Jan Kollár**
 
 ---
 
