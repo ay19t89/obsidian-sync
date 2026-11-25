@@ -664,10 +664,11 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- poezie
 	#díla
 	- *Ohlas písně ruských*
-		- 26 epických básní
+		- 26 epických básni
 		- motivy: hrdinství, boje, vlastenectví, ruská krajina
 	- *Ohlas písně českých*
-		- 56 bas
+		- 56 básni, lyrické
+		- témata: láska, lidový život, česká příroda
 
 - **Jan Kollár**
 	- poezie
@@ -681,6 +682,11 @@ Shakespearovu tvorbu dělíme na 2 části:
 	- *Veselohra na mostě*
 		- převážně krátké, jednoduché hry
 	- *Hadrián z Římsů*
+
+#### Rukopisy
+- královéhradecký - 13. století
+- zelenohorský - 9. století
+- lyricko-epické básně
 
 ---
 
